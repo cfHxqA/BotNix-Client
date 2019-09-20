@@ -1,0 +1,52 @@
+/**
+ * @author     cfHxqA
+ * @copyright  2019 (C) by cfHxqA
+ *
+ * @package    MSC.Bot
+ * @subpackage MSC.Bot.API.Game.Assets
+ * @category   Mission Chief
+ *
+ * @license    Attribution-NonCommercial-NoDerivs 4.0 Unported <http://creativecommons.org/licenses/by-nc-nd/4.0/>
+ */
+
+/* declares mission title */
+Mission.Title["de"] = "Brand in Klassenraum";
+
+/* declares mission description */
+Mission.Description["de"] = "";
+
+/* declares credits for mission */
+Mission.Credits = 3100;
+
+/* declares required vehicles for mission */
+Mission.Vehicle[0] = [6, 0];
+Mission.Vehicle[1] = [6, 0];
+Mission.Vehicle[6] = [6, 0];
+Mission.Vehicle[7] = [6, 0];
+Mission.Vehicle[8] = [6, 0];
+Mission.Vehicle[9] = [6, 0];
+Mission.Vehicle[30] = [6, 0];
+Mission.Vehicle[90] = [6, 0];
+Mission.Vehicle[37] = [6, 0];
+Mission.Vehicle[88] = [6, 0];
+Mission.Vehicle[89] = [6, 0];
+Mission.Vehicle[17] = [6, 0];
+Mission.Vehicle[18] = [6, 0];
+Mission.Vehicle[19] = [6, 0];
+Mission.Vehicle[20] = [6, 0];
+Mission.Vehicle[21] = [6, 0];
+Mission.Vehicle[22] = [6, 0];
+Mission.Vehicle[23] = [6, 0];
+Mission.Vehicle[24] = [6, 0];
+Mission.Vehicle[25] = [6, 0];
+Mission.Vehicle[26] = [6, 0];
+Mission.Vehicle[87] = [6, 0];
+Mission.Vehicle[2] = [1, 0];
+Mission.Vehicle[4] = [1, 0];
+Mission.Vehicle[3] = [2, 0];
+Mission.Vehicle[34] = [1, 0];
+Mission.Vehicle[32] = [3, 0];
+Mission.Vehicle[11] = [1, 0];
+Mission.Vehicle[5] = [1, 0];
+Mission.Vehicle[28] = [1, 0];
+Mission.Vehicle[29] = [1, 0];

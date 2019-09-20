@@ -1,0 +1,57 @@
+/**
+ * @author     cfHxqA
+ * @copyright  2019 (C) by cfHxqA
+ *
+ * @package    MSC.Bot
+ * @subpackage MSC.Bot.API.Game.Assets
+ * @category   Mission Chief
+ *
+ * @license    Attribution-NonCommercial-NoDerivs 4.0 Unported <http://creativecommons.org/licenses/by-nc-nd/4.0/>
+ */
+
+/* declares mission title */
+Mission.Title["de"] = "Brennende Kirche";
+
+/* declares mission description */
+Mission.Description["de"] = "";
+
+/* declares credits for mission */
+Mission.Credits = 7500;
+
+/* declares required vehicles for mission */
+Mission.Vehicle[0] = [15, 0];
+Mission.Vehicle[1] = [15, 0];
+Mission.Vehicle[6] = [15, 0];
+Mission.Vehicle[7] = [15, 0];
+Mission.Vehicle[8] = [15, 0];
+Mission.Vehicle[9] = [15, 0];
+Mission.Vehicle[30] = [15, 0];
+Mission.Vehicle[90] = [15, 0];
+Mission.Vehicle[37] = [15, 0];
+Mission.Vehicle[88] = [15, 0];
+Mission.Vehicle[89] = [15, 0];
+Mission.Vehicle[17] = [15, 0];
+Mission.Vehicle[18] = [15, 0];
+Mission.Vehicle[19] = [15, 0];
+Mission.Vehicle[20] = [15, 0];
+Mission.Vehicle[21] = [15, 0];
+Mission.Vehicle[22] = [15, 0];
+Mission.Vehicle[23] = [15, 0];
+Mission.Vehicle[24] = [15, 0];
+Mission.Vehicle[25] = [15, 0];
+Mission.Vehicle[26] = [15, 0];
+Mission.Vehicle[87] = [15, 0];
+Mission.Vehicle[2] = [3, 0];
+Mission.Vehicle[11] = [2, 0];
+Mission.Vehicle[5] = [2, 0];
+Mission.Vehicle[4] = [4, 0];
+Mission.Vehicle[3] = [3, 0];
+Mission.Vehicle[34] = [1, 0];
+Mission.Vehicle[12] = [1, 0];
+Mission.Vehicle[32] = [4, 0];
+Mission.Vehicle[39] = [1, 0];
+Mission.Vehicle[41] = [1, 0];
+Mission.Vehicle[40] = [1, 0];
+Mission.Vehicle[28] = [1, 0];
+Mission.Vehicle[29] = [1, 0];
+Mission.Vehicle[31] = [1, 0];

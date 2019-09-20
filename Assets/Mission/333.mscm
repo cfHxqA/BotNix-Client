@@ -1,0 +1,50 @@
+/**
+ * @author     cfHxqA
+ * @copyright  2019 (C) by cfHxqA
+ *
+ * @package    MSC.Bot
+ * @subpackage MSC.Bot.API.Game.Assets
+ * @category   Mission Chief
+ *
+ * @license    Attribution-NonCommercial-NoDerivs 4.0 Unported <http://creativecommons.org/licenses/by-nc-nd/4.0/>
+ */
+
+/* declares mission title */
+Mission.Title["de"] = "Flugzeugbrand";
+
+/* declares mission description */
+Mission.Description["de"] = "";
+
+/* declares credits for mission */
+Mission.Credits = 10000;
+
+/* declares required vehicles for mission */
+Mission.Vehicle[75] = [4, 0];
+Mission.Vehicle[76] = [1, 0];
+Mission.Vehicle[34] = [1, 0];
+Mission.Vehicle[3] = [2, 0];
+Mission.Vehicle[0] = [10, 0];
+Mission.Vehicle[1] = [10, 0];
+Mission.Vehicle[6] = [10, 0];
+Mission.Vehicle[7] = [10, 0];
+Mission.Vehicle[8] = [10, 0];
+Mission.Vehicle[9] = [10, 0];
+Mission.Vehicle[30] = [10, 0];
+Mission.Vehicle[90] = [10, 0];
+Mission.Vehicle[37] = [10, 0];
+Mission.Vehicle[88] = [10, 0];
+Mission.Vehicle[89] = [10, 0];
+Mission.Vehicle[17] = [10, 0];
+Mission.Vehicle[18] = [10, 0];
+Mission.Vehicle[19] = [10, 0];
+Mission.Vehicle[20] = [10, 0];
+Mission.Vehicle[21] = [10, 0];
+Mission.Vehicle[22] = [10, 0];
+Mission.Vehicle[23] = [10, 0];
+Mission.Vehicle[24] = [10, 0];
+Mission.Vehicle[25] = [10, 0];
+Mission.Vehicle[26] = [10, 0];
+Mission.Vehicle[87] = [10, 0];
+Mission.Vehicle[4] = [3, 0];
+Mission.Vehicle[28] = [1, 0];
+Mission.Vehicle[29] = [1, 0];

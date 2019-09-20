@@ -1,0 +1,27 @@
+/**
+ * @author     cfHxqA
+ * @copyright  2019 (C) by cfHxqA
+ *
+ * @package    MSC.Bot
+ * @subpackage MSC.Bot.API.Game.Assets
+ * @category   Mission Chief
+ *
+ * @license    Attribution-NonCommercial-NoDerivs 4.0 Unported <http://creativecommons.org/licenses/by-nc-nd/4.0/>
+ */
+
+/* declares mission title */
+Mission.Title["de"] = "Spontaner Aufstand";
+
+/* declares mission description */
+Mission.Description["de"] = "";
+
+/* declares credits for mission */
+Mission.Credits = 6000;
+
+/* declares required vehicles for mission */
+Mission.Vehicle[32] = [7, 0];
+Mission.Vehicle[72] = [3, 0];
+Mission.Vehicle[50] = [9, 0];
+Mission.Vehicle[35] = [4, 0];
+Mission.Vehicle[51] = [1, 0];
+Mission.Vehicle[61] = [1, 0];
