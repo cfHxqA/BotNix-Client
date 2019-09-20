@@ -19,10 +19,10 @@ Mission.Description["de"] = "";
 Mission.Credits = 7000;
 
 /* declares required vehicles for mission */
-Mission.Vehicle[50] = [18, 0];
-Mission.Vehicle[35] = [6, 0];
-Mission.Vehicle[51] = [2, 0];
 Mission.Vehicle[32] = [10, 0];
-Mission.Vehicle[73] = [2, 0];
+Mission.Vehicle[35] = [6, 0];
+Mission.Vehicle[50] = [18, 0];
+Mission.Vehicle[51] = [2, 0];
 Mission.Vehicle[61] = [1, 0];
 Mission.Vehicle[72] = [2, 0];
+Mission.Vehicle[73] = [2, 0];
