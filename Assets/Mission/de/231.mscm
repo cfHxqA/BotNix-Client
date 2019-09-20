@@ -1,0 +1,23 @@
+/**
+ * @author     cfHxqA
+ * @copyright  2019 (C) by cfHxqA
+ *
+ * @package    MSC.Bot
+ * @subpackage MSC.Bot.API.Game.Assets
+ * @category   Mission Chief
+ *
+ * @license    Attribution-NonCommercial-NoDerivs 4.0 Unported <http://creativecommons.org/licenses/by-nc-nd/4.0/>
+ */
+
+/* declares mission title */
+Mission.Title = "Entflohener Gefangener";
+
+/* declares mission description */
+Mission.Description = "";
+
+/* declares credits for mission */
+Mission.Credits = 4000;
+
+/* declares required vehicles for mission */
+Mission.Vehicle[32] = [10, 0];
+Mission.Vehicle[61] = [1, 0];

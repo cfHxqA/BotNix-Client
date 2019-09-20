@@ -1,0 +1,56 @@
+/**
+ * @author     cfHxqA
+ * @copyright  2019 (C) by cfHxqA
+ *
+ * @package    MSC.Bot
+ * @subpackage MSC.Bot.API.Game.Assets
+ * @category   Mission Chief
+ *
+ * @license    Attribution-NonCommercial-NoDerivs 4.0 Unported <http://creativecommons.org/licenses/by-nc-nd/4.0/>
+ */
+
+/* declares mission title */
+Mission.Title = "Einsturz Parkhaus";
+
+/* declares mission description */
+Mission.Description = "";
+
+/* declares credits for mission */
+Mission.Credits = 8000;
+
+/* declares required vehicles for mission */
+Mission.Vehicle[0] = [18, 0];
+Mission.Vehicle[1] = [18, 0];
+Mission.Vehicle[2] = [3, 0];
+Mission.Vehicle[3] = [5, 0];
+Mission.Vehicle[4] = [2, 0];
+Mission.Vehicle[6] = [18, 0];
+Mission.Vehicle[7] = [18, 0];
+Mission.Vehicle[8] = [18, 0];
+Mission.Vehicle[9] = [18, 0];
+Mission.Vehicle[11] = [1, 0];
+Mission.Vehicle[17] = [18, 0];
+Mission.Vehicle[18] = [18, 0];
+Mission.Vehicle[19] = [18, 0];
+Mission.Vehicle[20] = [18, 0];
+Mission.Vehicle[21] = [18, 0];
+Mission.Vehicle[22] = [18, 0];
+Mission.Vehicle[23] = [18, 0];
+Mission.Vehicle[24] = [18, 0];
+Mission.Vehicle[25] = [18, 0];
+Mission.Vehicle[26] = [18, 0];
+Mission.Vehicle[28] = [1, 0];
+Mission.Vehicle[29] = [1, 0];
+Mission.Vehicle[30] = [18, 0];
+Mission.Vehicle[31] = [1, 0];
+Mission.Vehicle[32] = [10, 0];
+Mission.Vehicle[34] = [2, 0];
+Mission.Vehicle[37] = [18, 0];
+Mission.Vehicle[39] = [2, 0];
+Mission.Vehicle[40] = [2, 0];
+Mission.Vehicle[41] = [2, 0];
+Mission.Vehicle[57] = [2, 0];
+Mission.Vehicle[87] = [18, 0];
+Mission.Vehicle[88] = [18, 0];
+Mission.Vehicle[89] = [18, 0];
+Mission.Vehicle[90] = [18, 0];

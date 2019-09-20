@@ -1,0 +1,48 @@
+/**
+ * @author     cfHxqA
+ * @copyright  2019 (C) by cfHxqA
+ *
+ * @package    MSC.Bot
+ * @subpackage MSC.Bot.API.Game.Assets
+ * @category   Mission Chief
+ *
+ * @license    Attribution-NonCommercial-NoDerivs 4.0 Unported <http://creativecommons.org/licenses/by-nc-nd/4.0/>
+ */
+
+/* declares mission title */
+Mission.Title = "Sporthallenbrand";
+
+/* declares mission description */
+Mission.Description = "";
+
+/* declares credits for mission */
+Mission.Credits = 3000;
+
+/* declares required vehicles for mission */
+Mission.Vehicle[0] = [7, 0];
+Mission.Vehicle[1] = [7, 0];
+Mission.Vehicle[2] = [2, 0];
+Mission.Vehicle[3] = [1, 0];
+Mission.Vehicle[5] = [1, 0];
+Mission.Vehicle[6] = [7, 0];
+Mission.Vehicle[7] = [7, 0];
+Mission.Vehicle[8] = [7, 0];
+Mission.Vehicle[9] = [7, 0];
+Mission.Vehicle[11] = [1, 0];
+Mission.Vehicle[17] = [7, 0];
+Mission.Vehicle[18] = [7, 0];
+Mission.Vehicle[19] = [7, 0];
+Mission.Vehicle[20] = [7, 0];
+Mission.Vehicle[21] = [7, 0];
+Mission.Vehicle[22] = [7, 0];
+Mission.Vehicle[23] = [7, 0];
+Mission.Vehicle[24] = [7, 0];
+Mission.Vehicle[25] = [7, 0];
+Mission.Vehicle[26] = [7, 0];
+Mission.Vehicle[30] = [7, 0];
+Mission.Vehicle[34] = [1, 0];
+Mission.Vehicle[37] = [7, 0];
+Mission.Vehicle[87] = [7, 0];
+Mission.Vehicle[88] = [7, 0];
+Mission.Vehicle[89] = [7, 0];
+Mission.Vehicle[90] = [7, 0];

@@ -1,0 +1,50 @@
+/**
+ * @author     cfHxqA
+ * @copyright  2019 (C) by cfHxqA
+ *
+ * @package    MSC.Bot
+ * @subpackage MSC.Bot.API.Game.Assets
+ * @category   Mission Chief
+ *
+ * @license    Attribution-NonCommercial-NoDerivs 4.0 Unported <http://creativecommons.org/licenses/by-nc-nd/4.0/>
+ */
+
+/* declares mission title */
+Mission.Title = "Gefahrgutunfall";
+
+/* declares mission description */
+Mission.Description = "";
+
+/* declares credits for mission */
+Mission.Credits = 14010;
+
+/* declares required vehicles for mission */
+Mission.Vehicle[0] = [20, 0];
+Mission.Vehicle[1] = [20, 0];
+Mission.Vehicle[2] = [2, 0];
+Mission.Vehicle[3] = [3, 0];
+Mission.Vehicle[4] = [5, 0];
+Mission.Vehicle[5] = [3, 0];
+Mission.Vehicle[6] = [20, 0];
+Mission.Vehicle[7] = [20, 0];
+Mission.Vehicle[8] = [20, 0];
+Mission.Vehicle[9] = [20, 0];
+Mission.Vehicle[12] = [4, 0];
+Mission.Vehicle[17] = [20, 0];
+Mission.Vehicle[18] = [20, 0];
+Mission.Vehicle[19] = [20, 0];
+Mission.Vehicle[20] = [20, 0];
+Mission.Vehicle[21] = [20, 0];
+Mission.Vehicle[22] = [20, 0];
+Mission.Vehicle[23] = [20, 0];
+Mission.Vehicle[24] = [20, 0];
+Mission.Vehicle[25] = [20, 0];
+Mission.Vehicle[26] = [20, 0];
+Mission.Vehicle[27] = [4, 0];
+Mission.Vehicle[30] = [20, 0];
+Mission.Vehicle[34] = [1, 0];
+Mission.Vehicle[37] = [20, 0];
+Mission.Vehicle[87] = [20, 0];
+Mission.Vehicle[88] = [20, 0];
+Mission.Vehicle[89] = [20, 0];
+Mission.Vehicle[90] = [20, 0];
