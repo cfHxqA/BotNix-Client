@@ -19,12 +19,12 @@ Mission.Description = "";
 Mission.Credits = 3500;
 
 /* declares required vehicles for mission */
-Mission.Vehicle[0] = (Min: 6, Max: 0, Vehicle: [0, 1, 6, 7, 8, 9, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 30, 37, 87, 88, 89, 90]);
-Mission.Vehicle[1] = (Min: 2, Max: 0, Vehicle: [2]);
-Mission.Vehicle[2] = (Min: 2, Max: 0, Vehicle: [5]);
-Mission.Vehicle[3] = (Min: 1, Max: 0, Vehicle: [12]);
-Mission.Vehicle[4] = (Min: 1, Max: 0, Vehicle: [10]);
-Mission.Vehicle[5] = (Min: 1, Max: 0, Vehicle: [32]);
-Mission.Vehicle[6] = (Min: 1, Max: 0, Vehicle: [3]);
-Mission.Vehicle[7] = (Min: 1, Max: 0, Vehicle: [29]);
-Mission.Vehicle[8] = (Min: 1, Max: 0, Vehicle: [28]);
+Mission.Vehicle[0] = (Min: 6, Max: 0, Vehicle: new int[] { 0, 1, 6, 7, 8, 9, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 30, 37, 87, 88, 89, 90 });
+Mission.Vehicle[1] = (Min: 2, Max: 0, Vehicle: new int[] { 2 });
+Mission.Vehicle[2] = (Min: 2, Max: 0, Vehicle: new int[] { 5 });
+Mission.Vehicle[3] = (Min: 1, Max: 0, Vehicle: new int[] { 12 });
+Mission.Vehicle[4] = (Min: 1, Max: 0, Vehicle: new int[] { 10 });
+Mission.Vehicle[5] = (Min: 1, Max: 0, Vehicle: new int[] { 32 });
+Mission.Vehicle[6] = (Min: 1, Max: 0, Vehicle: new int[] { 3 });
+Mission.Vehicle[7] = (Min: 1, Max: 0, Vehicle: new int[] { 29 });
+Mission.Vehicle[8] = (Min: 1, Max: 0, Vehicle: new int[] { 28 });

@@ -19,6 +19,6 @@ Mission.Description = "";
 Mission.Credits = 1700;
 
 /* declares required vehicles for mission */
-Mission.Vehicle[0] = (Min: 4, Max: 0, Vehicle: [32]);
-Mission.Vehicle[1] = (Min: 4, Max: 0, Vehicle: [79, 80]);
-Mission.Vehicle[2] = (Min: 1, Max: 0, Vehicle: [51]);
+Mission.Vehicle[0] = (Min: 4, Max: 0, Vehicle: new int[] { 32 });
+Mission.Vehicle[1] = (Min: 4, Max: 0, Vehicle: new int[] { 79, 80 });
+Mission.Vehicle[2] = (Min: 1, Max: 0, Vehicle: new int[] { 51 });
