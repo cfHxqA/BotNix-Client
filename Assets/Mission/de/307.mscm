@@ -19,9 +19,9 @@ Mission.Description = "";
 Mission.Credits = 6000;
 
 /* declares required vehicles for mission */
-Mission.Vehicle[0] = (Min: 7, Max: 0, Vehicle: new int[] { 32 });
-Mission.Vehicle[1] = (Min: 3, Max: 0, Vehicle: new int[] { 72 });
-Mission.Vehicle[2] = (Min: 9, Max: 0, Vehicle: new int[] { 50 });
-Mission.Vehicle[3] = (Min: 4, Max: 0, Vehicle: new int[] { 35 });
-Mission.Vehicle[4] = (Min: 1, Max: 0, Vehicle: new int[] { 51 });
-Mission.Vehicle[5] = (Min: 1, Max: 0, Vehicle: new int[] { 61 });
+Mission.SetVehicle(new int[] { 32 }, 7);
+Mission.SetVehicle(new int[] { 72 }, 3);
+Mission.SetVehicle(new int[] { 50 }, 9);
+Mission.SetVehicle(new int[] { 35 }, 4);
+Mission.SetVehicle(new int[] { 51 }, 1);
+Mission.SetVehicle(new int[] { 61 }, 1);
