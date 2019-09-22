@@ -10,7 +10,7 @@
  */
 
 /* declares mission id */
-Mission.Id = 282;
+Mission.MissionId = 282;
 
 /* declares mission title */
 Mission.Title = "Geplatzte Wasserleitung";

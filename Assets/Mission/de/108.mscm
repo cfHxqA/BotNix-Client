@@ -10,7 +10,7 @@
  */
 
 /* declares mission id */
-Mission.Id = 108;
+Mission.MissionId = 108;
 
 /* declares mission title */
 Mission.Title = "Schwangere in Notsituation";

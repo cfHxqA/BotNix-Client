@@ -10,7 +10,7 @@
  */
 
 /* declares mission id */
-Mission.Id = 463;
+Mission.MissionId = 463;
 
 /* declares mission title */
 Mission.Title = "Gesprengter Geldautomat";

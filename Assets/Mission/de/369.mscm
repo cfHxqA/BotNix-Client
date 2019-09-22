@@ -10,7 +10,7 @@
  */
 
 /* declares mission id */
-Mission.Id = 369;
+Mission.MissionId = 369;
 
 /* declares mission title */
 Mission.Title = "Austritt Kohlenmonoxid";

@@ -10,7 +10,7 @@
  */
 
 /* declares mission id */
-Mission.Id = 45;
+Mission.MissionId = 45;
 
 /* declares mission title */
 Mission.Title = "Nasenbluten unstillbar";

@@ -10,7 +10,7 @@
  */
 
 /* declares mission id */
-Mission.Id = 371;
+Mission.MissionId = 371;
 
 /* declares mission title */
 Mission.Title = "Fußball aufpumpen";

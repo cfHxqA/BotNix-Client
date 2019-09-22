@@ -10,7 +10,7 @@
  */
 
 /* declares mission id */
-Mission.Id = 93;
+Mission.MissionId = 93;
 
 /* declares mission title */
 Mission.Title = "Brennender Bus";

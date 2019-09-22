@@ -10,7 +10,7 @@
  */
 
 /* declares mission id */
-Mission.Id = 425;
+Mission.MissionId = 425;
 
 /* declares mission title */
 Mission.Title = "Verstauchter Knöchel";

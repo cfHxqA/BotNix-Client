@@ -10,7 +10,7 @@
  */
 
 /* declares mission id */
-Mission.Id = 443;
+Mission.MissionId = 443;
 
 /* declares mission title */
 Mission.Title = "Osterei-LKW umgestürzt";

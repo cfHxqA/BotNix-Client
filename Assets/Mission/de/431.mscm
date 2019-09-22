@@ -10,7 +10,7 @@
  */
 
 /* declares mission id */
-Mission.Id = 431;
+Mission.MissionId = 431;
 
 /* declares mission title */
 Mission.Title = "Kreislaufkollaps";

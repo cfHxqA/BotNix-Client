@@ -10,7 +10,7 @@
  */
 
 /* declares mission id */
-Mission.Id = 356;
+Mission.MissionId = 356;
 
 /* declares mission title */
 Mission.Title = "Häusliche Gewalt - eskaliert";

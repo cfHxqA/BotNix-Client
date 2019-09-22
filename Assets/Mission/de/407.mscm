@@ -10,7 +10,7 @@
  */
 
 /* declares mission id */
-Mission.Id = 407;
+Mission.MissionId = 407;
 
 /* declares mission title */
 Mission.Title = "Brennende Filteranlage";

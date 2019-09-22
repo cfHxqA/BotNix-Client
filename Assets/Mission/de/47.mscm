@@ -10,7 +10,7 @@
  */
 
 /* declares mission id */
-Mission.Id = 47;
+Mission.MissionId = 47;
 
 /* declares mission title */
 Mission.Title = "akuter Asthma-Anfall";

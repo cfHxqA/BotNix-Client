@@ -10,7 +10,7 @@
  */
 
 /* declares mission id */
-Mission.Id = 183;
+Mission.MissionId = 183;
 
 /* declares mission title */
 Mission.Title = "Sonnenstich";

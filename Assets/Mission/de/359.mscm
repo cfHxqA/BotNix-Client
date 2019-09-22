@@ -10,7 +10,7 @@
  */
 
 /* declares mission id */
-Mission.Id = 359;
+Mission.MissionId = 359;
 
 /* declares mission title */
 Mission.Title = "Geplante Razzia - Verdächtiger flüchtig";

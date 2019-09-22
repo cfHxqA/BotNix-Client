@@ -10,7 +10,7 @@
  */
 
 /* declares mission id */
-Mission.Id = 387;
+Mission.MissionId = 387;
 
 /* declares mission title */
 Mission.Title = "Brennende Pipeline-Isolierung";

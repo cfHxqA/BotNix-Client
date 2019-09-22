@@ -10,7 +10,7 @@
  */
 
 /* declares mission id */
-Mission.Id = 360;
+Mission.MissionId = 360;
 
 /* declares mission title */
 Mission.Title = "Brennender Blumenstrauß";

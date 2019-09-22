@@ -10,7 +10,7 @@
  */
 
 /* declares mission id */
-Mission.Id = 473;
+Mission.MissionId = 473;
 
 /* declares mission title */
 Mission.Title = "Pfefferspray in Bahn";

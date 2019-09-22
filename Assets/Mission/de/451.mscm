@@ -10,7 +10,7 @@
  */
 
 /* declares mission id */
-Mission.Id = 451;
+Mission.MissionId = 451;
 
 /* declares mission title */
 Mission.Title = "PKW in Gebäude";

@@ -10,7 +10,7 @@
  */
 
 /* declares mission id */
-Mission.Id = 441;
+Mission.MissionId = 441;
 
 /* declares mission title */
 Mission.Title = "Brennende Waldhütte";

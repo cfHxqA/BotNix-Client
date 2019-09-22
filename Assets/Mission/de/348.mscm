@@ -10,7 +10,7 @@
  */
 
 /* declares mission id */
-Mission.Id = 348;
+Mission.MissionId = 348;
 
 /* declares mission title */
 Mission.Title = "Explosion in Biogasanlage";

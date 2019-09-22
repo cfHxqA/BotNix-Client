@@ -10,7 +10,7 @@
  */
 
 /* declares mission id */
-Mission.Id = 380;
+Mission.MissionId = 380;
 
 /* declares mission title */
 Mission.Title = "PKW im Gleisbett";

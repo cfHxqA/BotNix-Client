@@ -10,7 +10,7 @@
  */
 
 /* declares mission id */
-Mission.Id = 301;
+Mission.MissionId = 301;
 
 /* declares mission title */
 Mission.Title = "Tiere auf der Fahrbahn";

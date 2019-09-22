@@ -10,7 +10,7 @@
  */
 
 /* declares mission id */
-Mission.Id = 418;
+Mission.MissionId = 418;
 
 /* declares mission title */
 Mission.Title = "Absicherung Pannen-LKW";

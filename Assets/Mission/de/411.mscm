@@ -10,7 +10,7 @@
  */
 
 /* declares mission id */
-Mission.Id = 411;
+Mission.MissionId = 411;
 
 /* declares mission title */
 Mission.Title = "Heißluftballon in Hochspannungsmast";

@@ -10,7 +10,7 @@
  */
 
 /* declares mission id */
-Mission.Id = 318;
+Mission.MissionId = 318;
 
 /* declares mission title */
 Mission.Title = "Ausgelöster Heimrauchmelder";

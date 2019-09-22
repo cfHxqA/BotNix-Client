@@ -10,7 +10,7 @@
  */
 
 /* declares mission id */
-Mission.Id = 241;
+Mission.MissionId = 241;
 
 /* declares mission title */
 Mission.Title = "Wildunfall";

@@ -10,7 +10,7 @@
  */
 
 /* declares mission id */
-Mission.Id = 325;
+Mission.MissionId = 325;
 
 /* declares mission title */
 Mission.Title = "Absicherung Castor-Transport";

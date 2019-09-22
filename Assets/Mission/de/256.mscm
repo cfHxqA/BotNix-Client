@@ -10,7 +10,7 @@
  */
 
 /* declares mission id */
-Mission.Id = 256;
+Mission.MissionId = 256;
 
 /* declares mission title */
 Mission.Title = "Zusammenstoß zweier Boote";

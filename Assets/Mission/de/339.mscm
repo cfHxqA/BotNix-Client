@@ -10,7 +10,7 @@
  */
 
 /* declares mission id */
-Mission.Id = 339;
+Mission.MissionId = 339;
 
 /* declares mission title */
 Mission.Title = "Herzinfarkt";

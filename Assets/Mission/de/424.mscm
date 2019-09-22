@@ -10,7 +10,7 @@
  */
 
 /* declares mission id */
-Mission.Id = 424;
+Mission.MissionId = 424;
 
 /* declares mission title */
 Mission.Title = "Großbrand Müllverbrennungsanlage";

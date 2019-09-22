@@ -10,7 +10,7 @@
  */
 
 /* declares mission id */
-Mission.Id = 215;
+Mission.MissionId = 215;
 
 /* declares mission title */
 Mission.Title = "Chlorgasaustritt";

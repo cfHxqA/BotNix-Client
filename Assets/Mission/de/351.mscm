@@ -10,7 +10,7 @@
  */
 
 /* declares mission id */
-Mission.Id = 351;
+Mission.MissionId = 351;
 
 /* declares mission title */
 Mission.Title = "Brand im Terminal";

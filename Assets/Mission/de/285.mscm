@@ -10,7 +10,7 @@
  */
 
 /* declares mission id */
-Mission.Id = 285;
+Mission.MissionId = 285;
 
 /* declares mission title */
 Mission.Title = "Pinsel aus Werkstatt entwendet";

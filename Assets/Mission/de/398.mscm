@@ -10,7 +10,7 @@
  */
 
 /* declares mission id */
-Mission.Id = 398;
+Mission.MissionId = 398;
 
 /* declares mission title */
 Mission.Title = "Brennende Absauganlage";

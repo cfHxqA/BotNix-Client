@@ -10,7 +10,7 @@
  */
 
 /* declares mission id */
-Mission.Id = 110;
+Mission.MissionId = 110;
 
 /* declares mission title */
 Mission.Title = "Vaginale Blutung";

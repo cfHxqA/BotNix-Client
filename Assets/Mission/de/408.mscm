@@ -10,7 +10,7 @@
  */
 
 /* declares mission id */
-Mission.Id = 408;
+Mission.MissionId = 408;
 
 /* declares mission title */
 Mission.Title = "Rauchentwicklung an Förderband";
