@@ -10,7 +10,7 @@
  */
 
 /* declares mission id */
-Mission.MissionId = 259;
+Mission.Id = 259;
 
 /* declares mission title */
 Mission.Title = "Brennender PKW durch Feuerwerkskörper";

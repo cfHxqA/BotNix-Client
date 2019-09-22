@@ -10,7 +10,7 @@
  */
 
 /* declares mission id */
-Mission.MissionId = 195;
+Mission.Id = 195;
 
 /* declares mission title */
 Mission.Title = "Schwerpunkteinsatz Tageswohnungseinbrüche";

@@ -10,7 +10,7 @@
  */
 
 /* declares mission id */
-Mission.MissionId = 212;
+Mission.Id = 212;
 
 /* declares mission title */
 Mission.Title = "Akute Bauchschmerzen";

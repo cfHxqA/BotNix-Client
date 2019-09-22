@@ -10,7 +10,7 @@
  */
 
 /* declares mission id */
-Mission.MissionId = 322;
+Mission.Id = 322;
 
 /* declares mission title */
 Mission.Title = "Geplante Autobahnsperrung";

@@ -10,7 +10,7 @@
  */
 
 /* declares mission id */
-Mission.MissionId = 374;
+Mission.Id = 374;
 
 /* declares mission title */
 Mission.Title = "Prellung nach Lattenpraller";

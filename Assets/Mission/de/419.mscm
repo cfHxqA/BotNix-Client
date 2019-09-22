@@ -10,7 +10,7 @@
  */
 
 /* declares mission id */
-Mission.MissionId = 419;
+Mission.Id = 419;
 
 /* declares mission title */
 Mission.Title = "Austritt Flüssiggas";

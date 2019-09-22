@@ -10,7 +10,7 @@
  */
 
 /* declares mission id */
-Mission.MissionId = 66;
+Mission.Id = 66;
 
 /* declares mission title */
 Mission.Title = "Notebook aus Schule entwendet";

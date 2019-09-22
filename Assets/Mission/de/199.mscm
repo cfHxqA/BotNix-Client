@@ -10,7 +10,7 @@
  */
 
 /* declares mission id */
-Mission.MissionId = 199;
+Mission.Id = 199;
 
 /* declares mission title */
 Mission.Title = "Geländedurchsuchung nach Beweismittel";

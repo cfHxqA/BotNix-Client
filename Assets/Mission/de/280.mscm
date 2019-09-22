@@ -10,7 +10,7 @@
  */
 
 /* declares mission id */
-Mission.MissionId = 280;
+Mission.Id = 280;
 
 /* declares mission title */
 Mission.Title = "Baum auf Oberleitung";

@@ -10,7 +10,7 @@
  */
 
 /* declares mission id */
-Mission.MissionId = 458;
+Mission.Id = 458;
 
 /* declares mission title */
 Mission.Title = "Schwerlastkontrolle";

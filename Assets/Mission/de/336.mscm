@@ -10,7 +10,7 @@
  */
 
 /* declares mission id */
-Mission.MissionId = 336;
+Mission.Id = 336;
 
 /* declares mission title */
 Mission.Title = "Absicherung Betankung";

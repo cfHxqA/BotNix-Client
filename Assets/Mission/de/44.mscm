@@ -10,7 +10,7 @@
  */
 
 /* declares mission id */
-Mission.MissionId = 44;
+Mission.Id = 44;
 
 /* declares mission title */
 Mission.Title = "Alkoholintoxikation";

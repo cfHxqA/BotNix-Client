@@ -10,7 +10,7 @@
  */
 
 /* declares mission id */
-Mission.MissionId = 207;
+Mission.Id = 207;
 
 /* declares mission title */
 Mission.Title = "Gefahrgutunfall - Groß";

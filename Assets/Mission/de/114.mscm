@@ -10,7 +10,7 @@
  */
 
 /* declares mission id */
-Mission.MissionId = 114;
+Mission.Id = 114;
 
 /* declares mission title */
 Mission.Title = "Hexe hängt in Baum";

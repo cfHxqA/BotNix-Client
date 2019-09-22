@@ -10,7 +10,7 @@
  */
 
 /* declares mission id */
-Mission.MissionId = 366;
+Mission.Id = 366;
 
 /* declares mission title */
 Mission.Title = "Vollstreckung Haftbefehl";

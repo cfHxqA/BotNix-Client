@@ -10,7 +10,7 @@
  */
 
 /* declares mission id */
-Mission.MissionId = 330;
+Mission.Id = 330;
 
 /* declares mission title */
 Mission.Title = "Überhitzte Bremsen";

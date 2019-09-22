@@ -10,7 +10,7 @@
  */
 
 /* declares mission id */
-Mission.MissionId = 113;
+Mission.Id = 113;
 
 /* declares mission title */
 Mission.Title = "Kürbissuppe übergekocht";

@@ -10,7 +10,7 @@
  */
 
 /* declares mission id */
-Mission.MissionId = 397;
+Mission.Id = 397;
 
 /* declares mission title */
 Mission.Title = "Schnittwunde";

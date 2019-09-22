@@ -10,7 +10,7 @@
  */
 
 /* declares mission id */
-Mission.MissionId = 288;
+Mission.Id = 288;
 
 /* declares mission title */
 Mission.Title = "Brennendes Osternest";

@@ -10,7 +10,7 @@
  */
 
 /* declares mission id */
-Mission.MissionId = 78;
+Mission.Id = 78;
 
 /* declares mission title */
 Mission.Title = "Kleintier in Not";

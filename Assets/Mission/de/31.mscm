@@ -10,7 +10,7 @@
  */
 
 /* declares mission id */
-Mission.MissionId = 31;
+Mission.Id = 31;
 
 /* declares mission title */
 Mission.Title = "Auslaufende Betriebsstoffe";

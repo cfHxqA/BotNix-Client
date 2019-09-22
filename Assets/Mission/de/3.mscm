@@ -10,7 +10,7 @@
  */
 
 /* declares mission id */
-Mission.MissionId = 3;
+Mission.Id = 3;
 
 /* declares mission title */
 Mission.Title = "Motorrad-Brand";

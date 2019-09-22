@@ -10,7 +10,7 @@
  */
 
 /* declares mission id */
-Mission.MissionId = 353;
+Mission.Id = 353;
 
 /* declares mission title */
 Mission.Title = "Großkontrolle Betäubungsmittel";

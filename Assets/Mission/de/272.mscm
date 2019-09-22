@@ -10,7 +10,7 @@
  */
 
 /* declares mission id */
-Mission.MissionId = 272;
+Mission.Id = 272;
 
 /* declares mission title */
 Mission.Title = "Gewässerverschmutzung durch Öl";

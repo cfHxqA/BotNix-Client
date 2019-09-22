@@ -10,7 +10,7 @@
  */
 
 /* declares mission id */
-Mission.MissionId = 317;
+Mission.Id = 317;
 
 /* declares mission title */
 Mission.Title = "Person in Baumaschine eingeklemmt";

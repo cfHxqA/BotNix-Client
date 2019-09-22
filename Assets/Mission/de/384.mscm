@@ -10,7 +10,7 @@
  */
 
 /* declares mission id */
-Mission.MissionId = 384;
+Mission.Id = 384;
 
 /* declares mission title */
 Mission.Title = "Brennende Ballenpresse";

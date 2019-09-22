@@ -10,7 +10,7 @@
  */
 
 /* declares mission id */
-Mission.MissionId = 94;
+Mission.Id = 94;
 
 /* declares mission title */
 Mission.Title = "Kleine Ölspur";

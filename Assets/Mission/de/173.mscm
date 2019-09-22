@@ -10,7 +10,7 @@
  */
 
 /* declares mission id */
-Mission.MissionId = 173;
+Mission.Id = 173;
 
 /* declares mission title */
 Mission.Title = "Straße unter Wasser";

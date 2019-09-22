@@ -10,7 +10,7 @@
  */
 
 /* declares mission id */
-Mission.MissionId = 313;
+Mission.Id = 313;
 
 /* declares mission title */
 Mission.Title = "Verunglückter Fallschirmspringer";

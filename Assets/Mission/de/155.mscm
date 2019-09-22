@@ -10,7 +10,7 @@
  */
 
 /* declares mission id */
-Mission.MissionId = 155;
+Mission.Id = 155;
 
 /* declares mission title */
 Mission.Title = "Akuter Harnstau";

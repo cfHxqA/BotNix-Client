@@ -10,7 +10,7 @@
  */
 
 /* declares mission id */
-Mission.MissionId = 435;
+Mission.Id = 435;
 
 /* declares mission title */
 Mission.Title = "Brand in Eloxalanlage";

@@ -10,7 +10,7 @@
  */
 
 /* declares mission id */
-Mission.MissionId = 444;
+Mission.Id = 444;
 
 /* declares mission title */
 Mission.Title = "Schwerpunkteinsatz Ostereiersuche";

@@ -10,7 +10,7 @@
  */
 
 /* declares mission id */
-Mission.MissionId = 252;
+Mission.Id = 252;
 
 /* declares mission title */
 Mission.Title = "Person in Wasser";

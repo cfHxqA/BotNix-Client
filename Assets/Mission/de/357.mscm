@@ -10,7 +10,7 @@
  */
 
 /* declares mission id */
-Mission.MissionId = 357;
+Mission.Id = 357;
 
 /* declares mission title */
 Mission.Title = "Bank: Stiller Alarm";

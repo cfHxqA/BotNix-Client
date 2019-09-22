@@ -10,7 +10,7 @@
  */
 
 /* declares mission id */
-Mission.MissionId = 307;
+Mission.Id = 307;
 
 /* declares mission title */
 Mission.Title = "Spontaner Aufstand";

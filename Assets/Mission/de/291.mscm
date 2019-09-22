@@ -10,7 +10,7 @@
  */
 
 /* declares mission id */
-Mission.MissionId = 291;
+Mission.Id = 291;
 
 /* declares mission title */
 Mission.Title = "Hasentreffen in Ostereistedt";

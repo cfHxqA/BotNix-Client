@@ -10,7 +10,7 @@
  */
 
 /* declares mission id */
-Mission.MissionId = 180;
+Mission.Id = 180;
 
 /* declares mission title */
 Mission.Title = "Wirbelsäulenverletzung";

@@ -10,7 +10,7 @@
  */
 
 /* declares mission id */
-Mission.MissionId = 321;
+Mission.Id = 321;
 
 /* declares mission title */
 Mission.Title = "Saunabrand";

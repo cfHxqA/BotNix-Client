@@ -10,7 +10,7 @@
  */
 
 /* declares mission id */
-Mission.MissionId = 469;
+Mission.Id = 469;
 
 /* declares mission title */
 Mission.Title = "Entgleiste Stadtbahn";

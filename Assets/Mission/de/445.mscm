@@ -10,7 +10,7 @@
  */
 
 /* declares mission id */
-Mission.MissionId = 445;
+Mission.Id = 445;
 
 /* declares mission title */
 Mission.Title = "Ei rollt in Schlangenlinien";

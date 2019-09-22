@@ -10,7 +10,7 @@
  */
 
 /* declares mission id */
-Mission.MissionId = 372;
+Mission.Id = 372;
 
 /* declares mission title */
 Mission.Title = "Mannschaftsbus in Halteverbot abgestellt";

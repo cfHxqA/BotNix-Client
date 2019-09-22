@@ -10,7 +10,7 @@
  */
 
 /* declares mission id */
-Mission.MissionId = 160;
+Mission.Id = 160;
 
 /* declares mission title */
 Mission.Title = "Umherfliegendes Baumaterial";

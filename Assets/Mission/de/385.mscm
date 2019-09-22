@@ -10,7 +10,7 @@
  */
 
 /* declares mission id */
-Mission.MissionId = 385;
+Mission.Id = 385;
 
 /* declares mission title */
 Mission.Title = "Unfall beim Umpumpen von Flüssigkeiten";

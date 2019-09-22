@@ -10,7 +10,7 @@
  */
 
 /* declares mission id */
-Mission.MissionId = 196;
+Mission.Id = 196;
 
 /* declares mission title */
 Mission.Title = "Schwerpunkteinsatz Verkehrsüberwachung";

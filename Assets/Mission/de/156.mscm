@@ -10,7 +10,7 @@
  */
 
 /* declares mission id */
-Mission.MissionId = 156;
+Mission.Id = 156;
 
 /* declares mission title */
 Mission.Title = "Harnleiter Blutung";

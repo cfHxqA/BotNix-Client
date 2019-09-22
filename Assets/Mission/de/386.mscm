@@ -10,7 +10,7 @@
  */
 
 /* declares mission id */
-Mission.MissionId = 386;
+Mission.Id = 386;
 
 /* declares mission title */
 Mission.Title = "Ammoniakaustritt";
