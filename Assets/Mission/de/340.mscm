@@ -9,6 +9,9 @@
  * @license    Attribution-NonCommercial-NoDerivs 4.0 Unported <http://creativecommons.org/licenses/by-nc-nd/4.0/>
  */
 
+/* declares mission id */
+Mission.Id = 340;
+
 /* declares mission title */
 Mission.Title = "akuter Asthma-Anfall";
 
