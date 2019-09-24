@@ -31,4 +31,5 @@ Mission.SetVehicleMissing(new int[] { 33 }, 1);
 Mission.SetVehicleMissing(new int[] { 61 }, 1);
 Mission.SetVehicleMissing(new int[] { 32 }, 2);
 Mission.SetVehicleMissing(new int[] { 39 }, 2);
-Mission.SetVehicleMissing(new int[] { 29 }, 1);
+Mission.SetVehicleMissing(new int[] { 28 }, 1);
+Mission.SetVehicleMissing(new int[] { 28 }, 1);
