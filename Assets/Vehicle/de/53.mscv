@@ -19,4 +19,4 @@ Vehicle.Category = "Dekon-P";
 Vehicle.Title = "Dekon-P";
 
 /* declares vehicle pattern */
-Vehicle.Pattern = new string[] { "Dekon-P" };
+Vehicle.PatternAdd(new string[] { "Dekon-P", "Dekon-P" });

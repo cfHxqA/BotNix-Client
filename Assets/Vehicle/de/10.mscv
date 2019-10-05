@@ -19,4 +19,4 @@ Vehicle.Category = "GW-Öl";
 Vehicle.Title = "GW-Öl";
 
 /* declares vehicle pattern */
-Vehicle.Pattern = new string[] { "GW-Öl" };
+Vehicle.PatternAdd(new string[] { "GW-Öl", "GW-Öl" });

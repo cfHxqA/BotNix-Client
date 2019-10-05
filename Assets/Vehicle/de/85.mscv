@@ -19,4 +19,4 @@ Vehicle.Category = "Teleskopmasten";
 Vehicle.Title = "TM 50";
 
 /* declares vehicle pattern */
-Vehicle.Pattern = new string[] { "Teleskopmasten" };
+Vehicle.PatternAdd(new string[] { "TM 50", "Teleskopmasten" });

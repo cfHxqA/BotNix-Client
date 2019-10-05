@@ -19,4 +19,4 @@ Vehicle.Category = "Rüstwagen";
 Vehicle.Title = "RW";
 
 /* declares vehicle pattern */
-Vehicle.Pattern = new string[] { "Rüstwagen" };
+Vehicle.PatternAdd(new string[] { "RW", "Rüstwagen", "Rüstwagen oder HLF" });

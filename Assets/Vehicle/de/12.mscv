@@ -19,4 +19,4 @@ Vehicle.Category = "GW-Mess";
 Vehicle.Title = "GW-Messtechnik";
 
 /* declares vehicle pattern */
-Vehicle.Pattern = new string[] { "GW-Mess" };
+Vehicle.PatternAdd(new string[] { "GW-Messtechnik", "GW-Mess" });

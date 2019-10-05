@@ -19,4 +19,4 @@ Vehicle.Category = "Feuerwehrkräne (FwK)";
 Vehicle.Title = "FwK";
 
 /* declares vehicle pattern */
-Vehicle.Pattern = new string[] { "Feuerwehrkräne (FwK)" };
+Vehicle.PatternAdd(new string[] { "FwK", "Feuerwehrkräne (FwK)" });

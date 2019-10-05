@@ -19,4 +19,4 @@ Vehicle.Category = "Löschfahrzeuge";
 Vehicle.Title = "TLF 8/18";
 
 /* declares vehicle pattern */
-Vehicle.Pattern = new string[] { "Löschfahrzeuge", "Löschfahrzeug" };
+Vehicle.PatternAdd(new string[] { "TLF 8/18", "Löschfahrzeuge", "Löschfahrzeug" });
