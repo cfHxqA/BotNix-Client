@@ -1,2 +1,70 @@
 [
+  {
+    "md5": "c7ed5f744df91fbac1a5efd70219a7a5",
+    "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/NetCoreServer.dll"
+  },
+  {
+    "md5": "9454ae6eb0c6ad77e93a95074ba29266",
+    "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/Newtonsoft.Json.dll"
+  },
+  {
+    "md5": "247247aa8456ac123ac34bbb7b881963",
+    "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/Newtonsoft.Json.Schema.dll"
+  },
+  {
+    "md5": "2da4adb065f10d2fa4c73fb6639d9ff9",
+    "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/Noemax.Compression.dll"
+  },
+  {
+    "md5": "bacd83762dcef5d765d25527c54daf38",
+    "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/PostSharp.dll"
+  },
+  {
+    "md5": "151a73701b7e47105c3e317c070039f8",
+    "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/PostSharp.Patterns.Aggregation.dll"
+  },
+  {
+    "md5": "355908a0cb5367ad7ee414de9c977503",
+    "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/PostSharp.Patterns.Caching.dll"
+  },
+  {
+    "md5": "35b8ffd52c8819d2c3398d2f9f9c320f",
+    "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/PostSharp.Patterns.Common.dll"
+  },
+  {
+    "md5": "5bf9153022fa6d8fcbaab221f61b7eb0",
+    "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/PostSharp.Patterns.Model.dll"
+  },
+  {
+    "md5": "a957beaf2935ca6bd153175373cb84f2",
+    "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/PostSharp.Patterns.Threading.dll"
+  },
+  {
+    "md5": "a31398de98e15e4b125642a2936ed345",
+    "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/RestSharp.dll"
+  },
+  {
+    "md5": "8e748f63f6012c50d96441472483da98",
+    "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/System.Configuration.ConfigurationManager.dll"
+  },
+  {
+    "md5": "194d3518734ae11038d1bca945db0b63",
+    "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/System.Runtime.Caching.dll"
+  },
+  {
+    "md5": "01e21ca3e08d9cd1556a43536e55835c",
+    "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/System.Security.Cryptography.ProtectedData.dll"
+  },
+  {
+    "md5": "706d8592956ef30e4a23e479e302119c",
+    "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/System.Security.Permissions.dll"
+  },
+  {
+    "md5": "22c7c5c25f9e88226f1edf33740dadea",
+    "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/XC.BouncyCastle.Crypto.dll"
+  },
+  {
+    "md5": "7732a5a6a9872d1d99bb05801547c0d9",
+    "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/XC.RSAUtil.dll"
+  }
 ]

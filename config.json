@@ -1,0 +1,13 @@
+{
+  "application" : {
+    "identifier" : "",
+    "license" : "",
+  },
+  "game" : {
+    "environment" : {
+      "country" : "us",
+      "username": "CHANGEME",
+      "password": "CHANGEME"
+    }
+  }
+}

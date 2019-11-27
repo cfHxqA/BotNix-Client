@@ -1,0 +1,14 @@
+[
+  {
+    "md5": "3dc2d6fff89c7358792f2532c06a8104",
+    "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/runtimes/unix/lib/netcoreapp2.0/System.Runtime.Caching.dll"
+  },
+  {
+    "md5": "b7a6c92dd8b7a8e5acdbbaeec17ae81b",
+    "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/runtimes/win/lib/netcoreapp2.0/System.Runtime.Caching.dll"
+  },
+  {
+    "md5": "95c0e2cf7481a0213a490998f3a956a0",
+    "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll"
+  }
+]

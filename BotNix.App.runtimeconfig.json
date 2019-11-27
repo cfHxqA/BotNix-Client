@@ -1,0 +1,12 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "runtimes", "Core", "Dependencies"
+    ],
+    "framework": {
+      "name": "Microsoft.NETCore.App",
+      "version": "3.0.0"
+    },
+    "tfm": "netcoreapp3.0"
+  }
+}
