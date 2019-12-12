@@ -1,6 +1,6 @@
 [
   {
-    "md5": "c7ed5f744df91fbac1a5efd70219a7a5",
+    "md5": "f3654369901434303265f2218bb20fc4",
     "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/NetCoreServer.dll"
   },
   {
@@ -16,27 +16,27 @@
     "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/Noemax.Compression.dll"
   },
   {
-    "md5": "bacd83762dcef5d765d25527c54daf38",
+    "md5": "22b15123abad520e4cc8f36d328648c9",
     "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/PostSharp.dll"
   },
   {
-    "md5": "151a73701b7e47105c3e317c070039f8",
+    "md5": "0cbc6823d8123f0424bcaf6f5c8339c3",
     "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/PostSharp.Patterns.Aggregation.dll"
   },
   {
-    "md5": "355908a0cb5367ad7ee414de9c977503",
+    "md5": "ab0d54cca9550569d855eac6955553f7",
     "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/PostSharp.Patterns.Caching.dll"
   },
   {
-    "md5": "35b8ffd52c8819d2c3398d2f9f9c320f",
+    "md5": "f1d4e020867abeee1a80d3d7920b31a6",
     "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/PostSharp.Patterns.Common.dll"
   },
   {
-    "md5": "5bf9153022fa6d8fcbaab221f61b7eb0",
+    "md5": "1ce64b3f46c841c906341055a245022c",
     "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/PostSharp.Patterns.Model.dll"
   },
   {
-    "md5": "a957beaf2935ca6bd153175373cb84f2",
+    "md5": "960b05dbdde49ca4abb6c6d3596b35b0",
     "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/PostSharp.Patterns.Threading.dll"
   },
   {
@@ -64,7 +64,7 @@
     "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/XC.BouncyCastle.Crypto.dll"
   },
   {
-    "md5": "7732a5a6a9872d1d99bb05801547c0d9",
+    "md5": "02a6855e53e88c4337420800a5edb03b",
     "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/XC.RSAUtil.dll"
   }
 ]

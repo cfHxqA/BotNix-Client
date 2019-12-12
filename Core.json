@@ -1,14 +1,14 @@
 [
   {
-    "md5": "77c1754318d0bc114204ade93b91d882",
+    "md5": "0f4ee04d5f3ece1709ff647a6ecfecdc",
     "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/BotNix.App.deps.json"
   },
   {
-    "md5": "98df3d0e8f61a56541aff0838625ef59",
+    "md5": "4c27e0cdd922c7d086e4ae1049723cb6",
     "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/BotNix.App.dll"
   },
   {
-    "md5": "410a940321f3232bb4d369161536f1b8",
+    "md5": "290c59bdb5ce3b625246e4824cb0d56f",
     "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/BotNix.App.exe"
   },
   {
@@ -20,11 +20,11 @@
     "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/runtimes.json"
   },
   {
-    "md5": "23f4f22ba4a01ef345b913a048af8c3d",
+    "md5": "65878c382871aca0e532cc3cb398b204",
     "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Core/BotNix.Updater.dll"
   },
   {
-    "md5": "7e3d39bee26368c0e6135ff0e7396b8d",
+    "md5": "b30deee0e0836e77ea375faaeb2f3059",
     "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Core/BotNix.Utilities.dll"
   }
 ]
