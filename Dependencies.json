@@ -1,7 +1,59 @@
 [
   {
+    "md5": "ac3be7cdf53dc2a81fef712d7fefd7e9",
+    "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/Konscious.Security.Cryptography.Argon2.dll"
+  },
+  {
+    "md5": "cd65c2782499accff92be41d2e152399",
+    "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/Konscious.Security.Cryptography.Blake2.dll"
+  },
+  {
+    "md5": "93291944b39daf29c57e427fd5664950",
+    "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/Microsoft.Extensions.Caching.Abstractions.dll"
+  },
+  {
+    "md5": "41b0a966fd1ded40815e50df8ef8d3be",
+    "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/Microsoft.Extensions.Caching.Memory.dll"
+  },
+  {
+    "md5": "2f21862da9c4a90610929d93a0ab4752",
+    "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/Microsoft.Extensions.Configuration.Abstractions.dll"
+  },
+  {
+    "md5": "f733747088a80f5c641f249b27b88e3f",
+    "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/Microsoft.Extensions.Configuration.dll"
+  },
+  {
+    "md5": "6f3cca084046a16c91f64953bd6ae66c",
+    "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/Microsoft.Extensions.DependencyInjection.Abstractions.dll"
+  },
+  {
+    "md5": "54a4cc6f56e8a72c0597fe353c43268d",
+    "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/Microsoft.Extensions.Logging.Abstractions.dll"
+  },
+  {
+    "md5": "0cd6938593b1785b4ac087f7fe5c47e9",
+    "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/Microsoft.Extensions.Options.dll"
+  },
+  {
+    "md5": "ac7d8d88bcf00eb8d99cac95e09b618a",
+    "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/Microsoft.Extensions.Primitives.dll"
+  },
+  {
+    "md5": "abeb216a7f47b8fe17b6f448cb269cf9",
+    "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/Microsoft.IO.RecyclableMemoryStream.dll"
+  },
+  {
+    "md5": "dd6399dc9bc839c0c66dd22a394d249c",
+    "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/Microsoft.Win32.SystemEvents.dll"
+  },
+  {
     "md5": "f3654369901434303265f2218bb20fc4",
     "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/NetCoreServer.dll"
+  },
+  {
+    "md5": "46944e52dbb2982ea49a297902b91ea8",
+    "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/Newtonsoft.Json.Bson.dll"
   },
   {
     "md5": "9454ae6eb0c6ad77e93a95074ba29266",
@@ -44,20 +96,48 @@
     "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/RestSharp.dll"
   },
   {
-    "md5": "8e748f63f6012c50d96441472483da98",
+    "md5": "70e81bfc1dcce3aa3ab30c3abaf3ea53",
     "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/System.Configuration.ConfigurationManager.dll"
+  },
+  {
+    "md5": "2bb2433323109421d538d57b3839585b",
+    "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/System.Drawing.Common.dll"
   },
   {
     "md5": "194d3518734ae11038d1bca945db0b63",
     "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/System.Runtime.Caching.dll"
   },
   {
-    "md5": "01e21ca3e08d9cd1556a43536e55835c",
+    "md5": "f10997737e2c08a162a02232a7bbb4ef",
+    "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/System.Runtime.CompilerServices.Unsafe.dll"
+  },
+  {
+    "md5": "a609e9801c83714435a0bc5dd69d6140",
+    "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/System.Security.AccessControl.dll"
+  },
+  {
+    "md5": "6133f65f8f26de5d5e2c88b4add50698",
     "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/System.Security.Cryptography.ProtectedData.dll"
   },
   {
-    "md5": "706d8592956ef30e4a23e479e302119c",
+    "md5": "3a92c18c24d85f60f23becd852f1510a",
     "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/System.Security.Permissions.dll"
+  },
+  {
+    "md5": "ff931fefae3158672308da5a93c06835",
+    "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/System.Security.Principal.Windows.dll"
+  },
+  {
+    "md5": "bdd02096130ca18e3238528abb813345",
+    "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/System.Windows.Extensions.dll"
+  },
+  {
+    "md5": "5c840536f5f0299ed9285eb0d6757989",
+    "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/VIEApps.Components.Utility.dll"
+  },
+  {
+    "md5": "c94d803a688c4f84cf4b8e29ab565f7a",
+    "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/VIEApps.Components.WebSockets.dll"
   },
   {
     "md5": "22c7c5c25f9e88226f1edf33740dadea",
@@ -66,5 +146,9 @@
   {
     "md5": "02a6855e53e88c4337420800a5edb03b",
     "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/XC.RSAUtil.dll"
+  },
+  {
+    "md5": "7072daac64e3ae5ae3e09c5c4843c1ef",
+    "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/Z.Expressions.Eval.dll"
   }
 ]
