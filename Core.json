@@ -16,10 +16,6 @@
     "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/BotNix.App.runtimeconfig.json"
   },
   {
-    "md5": "d04865a39d6dcb859ad09bb08c7370ed",
-    "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/runtimes.json"
-  },
-  {
     "md5": "0eb6990ef99d1deb03253b85338aec21",
     "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Core/BotNix.Updater.dll"
   },
