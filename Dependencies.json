@@ -1,5 +1,9 @@
 [
   {
+    "md5": "50dbe37b1506e37e322d35e661bfb5de",
+    "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/HtmlAgilityPack.dll"
+  },
+  {
     "md5": "ac3be7cdf53dc2a81fef712d7fefd7e9",
     "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/Konscious.Security.Cryptography.Argon2.dll"
   },
@@ -132,6 +136,10 @@
     "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/System.Windows.Extensions.dll"
   },
   {
+    "md5": "8efe31b7d4fb847dced560a22c58351f",
+    "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/System.Xml.XPath.XmlDocument.dll"
+  },
+  {
     "md5": "5c840536f5f0299ed9285eb0d6757989",
     "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/VIEApps.Components.Utility.dll"
   },
@@ -148,7 +156,7 @@
     "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/XC.RSAUtil.dll"
   },
   {
-    "md5": "7072daac64e3ae5ae3e09c5c4843c1ef",
+    "md5": "b65219ea24137a81ef8f67a0396d115a",
     "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/Z.Expressions.Eval.dll"
   }
 ]
