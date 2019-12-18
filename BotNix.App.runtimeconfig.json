@@ -1,7 +1,7 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
-      "runtimes", "Core", "Dependencies"
+      "Core", "Dependencies", "runtimes"
     ],
     "framework": {
       "name": "Microsoft.NETCore.App",
