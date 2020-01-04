@@ -52,7 +52,7 @@
     "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/Microsoft.Win32.SystemEvents.dll"
   },
   {
-    "md5": "f3654369901434303265f2218bb20fc4",
+    "md5": "120047a29fc20a5f0c246f568362fade",
     "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/NetCoreServer.dll"
   },
   {
@@ -140,11 +140,11 @@
     "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/System.Xml.XPath.XmlDocument.dll"
   },
   {
-    "md5": "5c840536f5f0299ed9285eb0d6757989",
+    "md5": "ff44db47a173f2d15df7eb1c6a4273bd",
     "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/VIEApps.Components.Utility.dll"
   },
   {
-    "md5": "c94d803a688c4f84cf4b8e29ab565f7a",
+    "md5": "5eecf3085d4a3977f56342ae69af90c0",
     "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/VIEApps.Components.WebSockets.dll"
   },
   {
@@ -156,7 +156,7 @@
     "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/XC.RSAUtil.dll"
   },
   {
-    "md5": "954932b7f0aaa93de95ab40312959b70",
+    "md5": "480faff79c8c398484486579b4861380",
     "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/Z.Expressions.Eval.dll"
   }
 ]

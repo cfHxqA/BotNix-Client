@@ -138,11 +138,11 @@
       "sha512": "sha512-7jnbRU+L08FXKMxqUflxEXtVymWvNOrS8yHgu9s6EM8Anr6T/wIX4nZ08j/u3Asz+tCufp3YVwFSEvFTPYmBPA==",
       "type": "package"
     },
-    "NetCoreServer/3.0.3": {
-      "hashPath": "netcoreserver.3.0.3.nupkg.sha512",
+    "NetCoreServer/3.0.4": {
+      "hashPath": "netcoreserver.3.0.4.nupkg.sha512",
       "path": "./",
       "serviceable": true,
-      "sha512": "sha512-TZSZP5WlGUwiI2qoZow10kIcofxtsUroYIUlfuHTKQ1ku1Cnol6IMIoS66k/7doUcJCljEnQCcxP6kcz7r/nUw==",
+      "sha512": "sha512-vuXnk1pUHPH+zDFR/8uVM/BddW53DtXfz1Wf062PKrXFJHmMaZx6vJvoi4JsnPujqtmrHGBw7onc1Hq/ExugBA==",
       "type": "package"
     },
     "Newtonsoft.Json.Bson/1.0.2": {
@@ -704,18 +704,18 @@
       "sha512": "sha512-lJ8AxvkX7GQxpC6GFCeBj8ThYVyQczx2+f/cWHJU8tjS7YfI6Cv6bon70jVEgs2CiFbmmM8b9j1oZVx0dSI2Ww==",
       "type": "package"
     },
-    "VIEApps.Components.Utility/10.3.1912.3": {
-      "hashPath": "vieapps.components.utility.10.3.1912.3.nupkg.sha512",
+    "VIEApps.Components.Utility/10.3.2001.1": {
+      "hashPath": "vieapps.components.utility.10.3.2001.1.nupkg.sha512",
       "path": "./",
       "serviceable": true,
-      "sha512": "sha512-bOWX6HmiNi/Z6CTi/ezQKw8Kow3GXx9VKV/loHj/ztMXDQ/TPwUSm2UrLXNL3Rjv08WuScdwfzL365L9yWbJiw==",
+      "sha512": "sha512-huLDzZ1sJu/fhxUOLDFnN9EQ0bduXlUOy8qNB8gVv6Ue7UUv7OC2jVyDxwYQ9dof6lF/b4Oas/kSzLmmNXojNQ==",
       "type": "package"
     },
-    "VIEApps.Components.WebSockets/10.3.1912.3": {
-      "hashPath": "vieapps.components.websockets.10.3.1912.3.nupkg.sha512",
+    "VIEApps.Components.WebSockets/10.3.2001.1": {
+      "hashPath": "vieapps.components.websockets.10.3.2001.1.nupkg.sha512",
       "path": "./",
       "serviceable": true,
-      "sha512": "sha512-1Xcm2n83rSp2eb0AgZ0XYihAkxqSH+Txi+AhoEQgseEvSJss6TGQaCMEYTg6FMWn2pzNQED3q2Dupd+llGtsvg==",
+      "sha512": "sha512-KhDjyAxQdp1ZkuUGOvU8Tu1FR45/0lJVsX1zB2pW5ZBetUQHqS/4ZGTF03eBK67VxCAKugmgf8T57yhhCRfxgQ==",
       "type": "package"
     },
     "XC.BouncyCastle.Crypto/1.0.0": {
@@ -732,18 +732,18 @@
       "sha512": "sha512-7PhE8+bdSOS8zFCXjhsXbIglFFovtrW/SiqDCytDyuSqpKcvZbEA96zXQPVmjY4i8NfsUUNQbmnXTQP4NEjJVQ==",
       "type": "package"
     },
-    "Z.Expressions.Eval/3.0.11": {
-      "hashPath": "z.expressions.eval.3.0.11.nupkg.sha512",
+    "Z.Expressions.Eval/3.0.12": {
+      "hashPath": "z.expressions.eval.3.0.12.nupkg.sha512",
       "path": "./",
       "serviceable": true,
-      "sha512": "sha512-n7V6dkuRmKY0+H2UIK7vx2WiVpZ/Cejl8rNUd0Wp4ZG+Qc2rpNwMMJSdDDVqzRbAjGhUZv3gk8y3RqfkCYifAw==",
+      "sha512": "sha512-mRhYsyuVB/gIc6cWP/MhtrCJFaWYQx5Tpr+3RmO8SZ214Z3Z7DrpovqCyIbXHFHniMkkayDJZlG83CIjIVuC3w==",
       "type": "package"
     },
-    "nulastudio.NetCoreBeauty/1.1.7": {
-      "hashPath": "nulastudio.netcorebeauty.1.1.7.nupkg.sha512",
+    "nulastudio.NetCoreBeauty/1.1.8": {
+      "hashPath": "nulastudio.netcorebeauty.1.1.8.nupkg.sha512",
       "path": "./",
       "serviceable": true,
-      "sha512": "sha512-eFVNVihd7PmvXv3JoRpo506DXQypzWgAzPn7cVGyPTV619gcacD6CxCikYdBgVP8bcuurEFrVMpI+wJ/NWzzZw==",
+      "sha512": "sha512-W+J49cVdLFUp07q81YPXkUEoRIDcXQg2iV+M/pGO2KGvZYHtTZd+GQOI2PdLeVzcY73V1nuMQMe3K8T7pJEdTA==",
       "type": "package"
     },
     "runtime.debian.8-x64.runtime.native.System.Security.Cryptography.OpenSsl/4.3.2": {
@@ -863,16 +863,16 @@
           "BotNix.Updater": "2.0.0",
           "BotNix.Utilities": "2.0.0",
           "HtmlAgilityPack": "1.11.17",
-          "NetCoreServer": "3.0.3",
+          "NetCoreServer": "3.0.4",
           "Newtonsoft.Json.Schema": "3.0.11",
           "Noemax.Compression": "18.14.5339.0",
           "PostSharp.Patterns.Caching": "6.4.5",
           "PostSharp.Patterns.Model": "6.4.5",
           "RestSharp": "106.6.10",
-          "VIEApps.Components.WebSockets": "10.3.1912.3",
+          "VIEApps.Components.WebSockets": "10.3.2001.1",
           "XC.RSAUtil": "1.3.4",
-          "Z.Expressions.Eval": "3.0.11",
-          "nulastudio.NetCoreBeauty": "1.1.7"
+          "Z.Expressions.Eval": "3.0.12",
+          "nulastudio.NetCoreBeauty": "1.1.8"
         },
         "runtime": {
           "./BotNix.App.dll": {}
@@ -1023,7 +1023,7 @@
           "Microsoft.NETCore.Platforms": "3.1.0"
         }
       },
-      "NetCoreServer/3.0.3": {
+      "NetCoreServer/3.0.4": {
         "runtime": {
           "./NetCoreServer.dll": {}
         }
@@ -1839,7 +1839,7 @@
           "System.Xml.ReaderWriter": "4.3.0"
         }
       },
-      "VIEApps.Components.Utility/10.3.1912.3": {
+      "VIEApps.Components.Utility/10.3.2001.1": {
         "dependencies": {
           "Konscious.Security.Cryptography.Argon2": "1.2.1",
           "Konscious.Security.Cryptography.Blake2": "1.0.9",
@@ -1854,9 +1854,9 @@
           "./VIEApps.Components.Utility.dll": {}
         }
       },
-      "VIEApps.Components.WebSockets/10.3.1912.3": {
+      "VIEApps.Components.WebSockets/10.3.2001.1": {
         "dependencies": {
-          "VIEApps.Components.Utility": "10.3.1912.3"
+          "VIEApps.Components.Utility": "10.3.2001.1"
         },
         "runtime": {
           "./VIEApps.Components.WebSockets.dll": {}
@@ -1875,7 +1875,7 @@
           "./XC.RSAUtil.dll": {}
         }
       },
-      "Z.Expressions.Eval/3.0.11": {
+      "Z.Expressions.Eval/3.0.12": {
         "dependencies": {
           "Microsoft.CSharp": "4.5.0",
           "Microsoft.Extensions.Caching.Memory": "2.0.0",
@@ -1894,7 +1894,7 @@
           "./Z.Expressions.Eval.dll": {}
         }
       },
-      "nulastudio.NetCoreBeauty/1.1.7": {},
+      "nulastudio.NetCoreBeauty/1.1.8": {},
       "runtime.debian.8-x64.runtime.native.System.Security.Cryptography.OpenSsl/4.3.2": {},
       "runtime.fedora.23-x64.runtime.native.System.Security.Cryptography.OpenSsl/4.3.2": {},
       "runtime.fedora.24-x64.runtime.native.System.Security.Cryptography.OpenSsl/4.3.2": {},
