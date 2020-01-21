@@ -1,5 +1,9 @@
 [
   {
+    "md5": "4ae1c613bb4d98881e5ecfc5dd74471e",
+    "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/AutoMapper.dll"
+  },
+  {
     "md5": "50dbe37b1506e37e322d35e661bfb5de",
     "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/HtmlAgilityPack.dll"
   },
@@ -20,11 +24,11 @@
     "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/Microsoft.Extensions.Caching.Memory.dll"
   },
   {
-    "md5": "2f21862da9c4a90610929d93a0ab4752",
+    "md5": "d5c5d39f0b43e7906f9f167415055c85",
     "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/Microsoft.Extensions.Configuration.Abstractions.dll"
   },
   {
-    "md5": "f733747088a80f5c641f249b27b88e3f",
+    "md5": "5ee03f9df9756e6f50c49c4cedd0f02c",
     "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/Microsoft.Extensions.Configuration.dll"
   },
   {
@@ -32,7 +36,7 @@
     "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/Microsoft.Extensions.DependencyInjection.Abstractions.dll"
   },
   {
-    "md5": "54a4cc6f56e8a72c0597fe353c43268d",
+    "md5": "48cd862a930f77b3e17d5d5886a4f991",
     "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/Microsoft.Extensions.Logging.Abstractions.dll"
   },
   {
@@ -40,7 +44,7 @@
     "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/Microsoft.Extensions.Options.dll"
   },
   {
-    "md5": "ac7d8d88bcf00eb8d99cac95e09b618a",
+    "md5": "01e914a2e4447375c9492039d6dadd62",
     "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/Microsoft.Extensions.Primitives.dll"
   },
   {
@@ -96,7 +100,7 @@
     "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/PostSharp.Patterns.Threading.dll"
   },
   {
-    "md5": "a31398de98e15e4b125642a2936ed345",
+    "md5": "f53a564ea01e98f726299179d3abf50c",
     "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/RestSharp.dll"
   },
   {
@@ -108,7 +112,7 @@
     "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/System.Drawing.Common.dll"
   },
   {
-    "md5": "194d3518734ae11038d1bca945db0b63",
+    "md5": "0afb52fc83c96de7447ae47ff290f610",
     "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/System.Runtime.Caching.dll"
   },
   {
@@ -140,11 +144,11 @@
     "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/System.Xml.XPath.XmlDocument.dll"
   },
   {
-    "md5": "ff44db47a173f2d15df7eb1c6a4273bd",
+    "md5": "d813b1aa559f7b3175957c48384e25e4",
     "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/VIEApps.Components.Utility.dll"
   },
   {
-    "md5": "5eecf3085d4a3977f56342ae69af90c0",
+    "md5": "36371e18fda4d9779e965d9b9abc0d22",
     "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/VIEApps.Components.WebSockets.dll"
   },
   {
@@ -152,11 +156,11 @@
     "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/XC.BouncyCastle.Crypto.dll"
   },
   {
-    "md5": "02a6855e53e88c4337420800a5edb03b",
+    "md5": "e2e86051b34b4445d6f15b6336172ae4",
     "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/XC.RSAUtil.dll"
   },
   {
-    "md5": "480faff79c8c398484486579b4861380",
+    "md5": "ae757422f0ba08d2ad0c4dd8089e964d",
     "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/Z.Expressions.Eval.dll"
   }
 ]
