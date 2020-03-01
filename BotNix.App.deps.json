@@ -1,7 +1,7 @@
 {
   "compilationOptions": {},
   "libraries": {
-    "BotNix.App/1.0.0": {
+    "BotNix.App/2.1.0.0": {
       "path": "./",
       "serviceable": false,
       "sha512": "",
@@ -312,7 +312,7 @@
   },
   "targets": {
     ".NETCoreApp,Version=v3.1": {
-      "BotNix.App/1.0.0": {
+      "BotNix.App/2.1.0.0": {
         "dependencies": {
           "BotNix.Updater": "1.0.0",
           "BotNix.Utilities": "1.0.0",
