@@ -1,19 +1,19 @@
 {
   "compilationOptions": {},
   "libraries": {
-    "BotNix.App/2.1.0.0": {
+    "BotNix.App/1.0.0": {
       "path": "./",
       "serviceable": false,
       "sha512": "",
       "type": "project"
     },
-    "BotNix.Updater/2.0.0": {
+    "BotNix.Updater/1.0.0": {
       "path": "./",
       "serviceable": false,
       "sha512": "",
       "type": "project"
     },
-    "BotNix.Utilities/2.0.0": {
+    "BotNix.Utilities/1.0.0": {
       "path": "./",
       "serviceable": false,
       "sha512": "",
@@ -307,18 +307,18 @@
     }
   },
   "runtimeTarget": {
-    "name": ".NETCoreApp,Version=v3.0",
+    "name": ".NETCoreApp,Version=v3.1",
     "signature": ""
   },
   "targets": {
-    ".NETCoreApp,Version=v3.0": {
-      "BotNix.App/2.1.0.0": {
+    ".NETCoreApp,Version=v3.1": {
+      "BotNix.App/1.0.0": {
         "dependencies": {
-          "BotNix.Updater": "2.0.0",
-          "BotNix.Utilities": "2.0.0",
+          "BotNix.Updater": "1.0.0",
+          "BotNix.Utilities": "1.0.0",
           "NetCoreServer": "3.0.4",
-          "Newtonsoft.Json": "12.0.3",
           "Noemax.Compression": "18.14.5339.0",
+          "PostSharp": "6.4.8",
           "PostSharp.Patterns.Caching": "6.4.8",
           "PostSharp.Patterns.Model": "6.4.8",
           "RestSharp": "106.10.1",
@@ -329,9 +329,10 @@
           "./BotNix.App.dll": {}
         }
       },
-      "BotNix.Updater/2.0.0": {
+      "BotNix.Updater/1.0.0": {
         "dependencies": {
-          "BotNix.Utilities": "2.0.0",
+          "BotNix.Utilities": "1.0.0",
+          "Newtonsoft.Json": "12.0.3",
           "PostSharp": "6.4.8",
           "PostSharp.Patterns.Caching": "6.4.8",
           "PostSharp.Patterns.Model": "6.4.8",
@@ -341,10 +342,9 @@
           "./BotNix.Updater.dll": {}
         }
       },
-      "BotNix.Utilities/2.0.0": {
+      "BotNix.Utilities/1.0.0": {
         "dependencies": {
           "Newtonsoft.Json": "12.0.3",
-          "PostSharp": "6.4.8",
           "PostSharp.Patterns.Threading": "6.4.8",
           "RestSharp": "106.10.1"
         },

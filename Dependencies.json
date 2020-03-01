@@ -20,11 +20,11 @@
     "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/Microsoft.Extensions.Caching.Memory.dll"
   },
   {
-    "md5": "7f83e786e284aece6b6d6d3e66462a06",
+    "md5": "2f2044514e4f2ef724e964c65c4e47e0",
     "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/Microsoft.Extensions.Configuration.Abstractions.dll"
   },
   {
-    "md5": "c7eab6dbe3f9a9f8a7b28d67839507b3",
+    "md5": "b3378387df969809ddcf7ab3218084f6",
     "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/Microsoft.Extensions.Configuration.dll"
   },
   {
@@ -40,7 +40,7 @@
     "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/Microsoft.Extensions.Options.dll"
   },
   {
-    "md5": "d255ff2865f8f2eb3375ff5b17215acc",
+    "md5": "9d42b989570813c2d8244145fbd48b22",
     "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/Microsoft.Extensions.Primitives.dll"
   },
   {
@@ -108,24 +108,12 @@
     "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/System.Runtime.Caching.dll"
   },
   {
-    "md5": "f10997737e2c08a162a02232a7bbb4ef",
-    "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/System.Runtime.CompilerServices.Unsafe.dll"
-  },
-  {
-    "md5": "a609e9801c83714435a0bc5dd69d6140",
-    "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/System.Security.AccessControl.dll"
-  },
-  {
     "md5": "01e21ca3e08d9cd1556a43536e55835c",
     "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/System.Security.Cryptography.ProtectedData.dll"
   },
   {
     "md5": "706d8592956ef30e4a23e479e302119c",
     "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/System.Security.Permissions.dll"
-  },
-  {
-    "md5": "ff931fefae3158672308da5a93c06835",
-    "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/System.Security.Principal.Windows.dll"
   },
   {
     "md5": "bdd02096130ca18e3238528abb813345",
@@ -136,11 +124,11 @@
     "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/System.Xml.XPath.XmlDocument.dll"
   },
   {
-    "md5": "9d51fc72f22fa60af7748c565d5ca864",
+    "md5": "f5ce8ee419b01aeda99fc23ad5d10ec1",
     "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/VIEApps.Components.Utility.dll"
   },
   {
-    "md5": "bd5dd89c352027b4b3b02786624ff90c",
+    "md5": "eefd70fa63644032e3d65d0dc6139ace",
     "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/VIEApps.Components.WebSockets.dll"
   },
   {
