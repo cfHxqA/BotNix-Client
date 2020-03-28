@@ -33,11 +33,11 @@
       "sha512": "sha512-aOZA3BWfz9RXjpzt0sRJJMjAscAUm3Hoa4UWAfceV9UTYxgwZ1lZt5nO2myFf+/jetYQo4uTP7zS8sJY67BBxg==",
       "type": "package"
     },
-    "NetCoreServer/3.0.7": {
-      "hashPath": "netcoreserver.3.0.7.nupkg.sha512",
+    "NetCoreServer/3.0.6": {
+      "hashPath": "netcoreserver.3.0.6.nupkg.sha512",
       "path": "./",
       "serviceable": true,
-      "sha512": "sha512-mXuHP/tHhS/eNdiHElydbOia3he/RN6/Z0v8FKgQzjpiFUcVS2DEMB5FcbdHvEpbtQia/EYoPRwhU8I4S/xKrQ==",
+      "sha512": "sha512-6exU+gs5AVatTEAOBU6opt5a98jaC59orfncbeYKPyW6ZOFSosi+6+tsQvZFyEXfTa30aCgnvMaO6TWyMbKT9A==",
       "type": "package"
     },
     "Newtonsoft.Json/12.0.3": {
@@ -316,7 +316,7 @@
         "dependencies": {
           "BotNix.Updater": "2.0.0",
           "BotNix.Utilities": "2.0.0",
-          "NetCoreServer": "3.0.7",
+          "NetCoreServer": "3.0.6",
           "Noemax.Compression": "18.14.5339.0",
           "PostSharp": "6.5.5",
           "PostSharp.Patterns.Caching": "6.5.5",
@@ -354,7 +354,7 @@
       },
       "Microsoft.NETCore.Platforms/2.0.0": {},
       "Microsoft.NETCore.Targets/1.1.0": {},
-      "NetCoreServer/3.0.7": {
+      "NetCoreServer/3.0.6": {
         "runtime": {
           "./NetCoreServer.dll": {}
         }
