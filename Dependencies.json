@@ -1,6 +1,6 @@
 [
   {
-    "md5": "8ef88789aed9e2b72a5025e6a35014e2",
+    "md5": "32aee4152fbd2628365d4761eb669944",
     "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/HtmlAgilityPack.dll"
   },
   {
@@ -44,7 +44,7 @@
     "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/Microsoft.Extensions.Primitives.dll"
   },
   {
-    "md5": "7aa88d20b0ed3f413bdae79d0420c4a8",
+    "md5": "c99d377aec5213ed032c5f1980d7a6a8",
     "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/Microsoft.IO.RecyclableMemoryStream.dll"
   },
   {
@@ -68,31 +68,31 @@
     "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/Noemax.Compression.dll"
   },
   {
-    "md5": "4000a41188575fb667d64054873cdb65",
+    "md5": "0124796e2df176b61f3b8c1902c1dd4a",
     "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/PostSharp.dll"
   },
   {
-    "md5": "23efa6bfc288b2306b56a6e6c29023bd",
+    "md5": "5d4a86fd44f913c6d8e06ab76b40af35",
     "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/PostSharp.Patterns.Aggregation.dll"
   },
   {
-    "md5": "695dd54b9dfd9448db1ecad62725a741",
+    "md5": "72c78d8bf584f3c774965265fcf1a5aa",
     "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/PostSharp.Patterns.Caching.dll"
   },
   {
-    "md5": "7051f21be1a7dace88eb9715e68cdd7a",
+    "md5": "62012eae93f11bd1e0970958fb5367b5",
     "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/PostSharp.Patterns.Common.dll"
   },
   {
-    "md5": "8b6e0839bba2c43dbe5bae0a0b9c0623",
+    "md5": "f3b9e653e5f9beb67dcd7421fef7868f",
     "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/PostSharp.Patterns.Model.dll"
   },
   {
-    "md5": "016f81db81efe4cc6981f1769ede61e1",
+    "md5": "b414bbc2de7ec0f4a594745ee53c3d28",
     "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/PostSharp.Patterns.Threading.dll"
   },
   {
-    "md5": "eeda4193356a0e8a6d2b016cc7b71821",
+    "md5": "493510ce2451d2e94100a5225cd02db2",
     "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/RestSharp.dll"
   },
   {
@@ -124,11 +124,11 @@
     "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/System.Xml.XPath.XmlDocument.dll"
   },
   {
-    "md5": "019b29e6c68c814ba441cdd66ca2181e",
+    "md5": "5291c6eba48a2002332d92f9b26763ec",
     "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/VIEApps.Components.Utility.dll"
   },
   {
-    "md5": "abd723ed11b63faa0d782eaf7df41086",
+    "md5": "9421da77af32ba9277227ce4767f4ebd",
     "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/VIEApps.Components.WebSockets.dll"
   },
   {
@@ -140,7 +140,7 @@
     "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/XC.RSAUtil.dll"
   },
   {
-    "md5": "3554412ce378949e1dc188ef0a5e6009",
+    "md5": "33630db11be465d4ef161805a292a664",
     "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/Z.Expressions.Eval.dll"
   }
 ]
