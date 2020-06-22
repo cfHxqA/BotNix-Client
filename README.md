@@ -9,7 +9,7 @@
 
 # Requirements (Windows-/MacOS-/Linux)
 
-- [.NET Core 3.0 Runtime or higher]([https://dotnet.microsoft.com/download/dotnet-core/current/runtime](https://dotnet.microsoft.com/download/dotnet-core/current/runtime))
+- [.NET Core 3.1 Runtime or higher]([https://dotnet.microsoft.com/download/dotnet-core/current/runtime](https://dotnet.microsoft.com/download/dotnet-core/current/runtime))
 
 # Legal
 
