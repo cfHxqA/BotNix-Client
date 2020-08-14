@@ -20,11 +20,11 @@
     "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/Microsoft.Extensions.Caching.Memory.dll"
   },
   {
-    "md5": "a2e27ada92ec2f1c3af6cf0ba015363c",
+    "md5": "f7cd382406fba62f6649543c78860252",
     "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/Microsoft.Extensions.Configuration.Abstractions.dll"
   },
   {
-    "md5": "6e1e584c4bf7f3d86c59858df6d9849f",
+    "md5": "2b364e2f73ddc0a0dbba24f6840fa9a4",
     "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/Microsoft.Extensions.Configuration.dll"
   },
   {
@@ -32,7 +32,7 @@
     "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/Microsoft.Extensions.DependencyInjection.Abstractions.dll"
   },
   {
-    "md5": "763f494e94c0c1aec51e853ec8734fa3",
+    "md5": "7468b6f6aea08fc14f61b7856e0fcb4e",
     "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/Microsoft.Extensions.Logging.Abstractions.dll"
   },
   {
@@ -40,11 +40,11 @@
     "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/Microsoft.Extensions.Options.dll"
   },
   {
-    "md5": "f08ca33d3c8eb30307896f319ec3c345",
+    "md5": "38d08c53a987693a53cc5c57b8ba9ddf",
     "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/Microsoft.Extensions.Primitives.dll"
   },
   {
-    "md5": "c99d377aec5213ed032c5f1980d7a6a8",
+    "md5": "95e450f3cf02dfba285102b154a0b44b",
     "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/Microsoft.IO.RecyclableMemoryStream.dll"
   },
   {
@@ -68,27 +68,27 @@
     "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/Noemax.Compression.dll"
   },
   {
-    "md5": "cbe6563aa397474b373363357b6c6931",
+    "md5": "84b043b58ed3b1fde6563979a1110e23",
     "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/PostSharp.dll"
   },
   {
-    "md5": "18440e1e85bdc17584ffcc67e7ad63c0",
+    "md5": "ae31567f192fca2423654bebbf0db262",
     "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/PostSharp.Patterns.Aggregation.dll"
   },
   {
-    "md5": "866f81e33d14c2071dedd7bf228bbad6",
+    "md5": "03c166dbfa37666592678f06d3addc6d",
     "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/PostSharp.Patterns.Caching.dll"
   },
   {
-    "md5": "58ab95d89868829f7096bb79c038aa94",
+    "md5": "c404a7671e5acdd1df456a6598eae414",
     "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/PostSharp.Patterns.Common.dll"
   },
   {
-    "md5": "abf695c82593d6b6d0e6075f182712da",
+    "md5": "83b1e8204c50a3359b1e4611df094839",
     "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/PostSharp.Patterns.Model.dll"
   },
   {
-    "md5": "13ec2b3a518b0a7723c24ea34b27a432",
+    "md5": "d72e231b78793e37dca67c41f9e581f8",
     "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/PostSharp.Patterns.Threading.dll"
   },
   {
@@ -124,11 +124,11 @@
     "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/System.Xml.XPath.XmlDocument.dll"
   },
   {
-    "md5": "7dab8aaca9032b3cd21c6ac53de700ac",
+    "md5": "68e52b52d72154710169eb60cec8726b",
     "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/VIEApps.Components.Utility.dll"
   },
   {
-    "md5": "72e7dc833d083714afd59e5ec84618fc",
+    "md5": "5506c170edb0730fb468b0ad88a55a19",
     "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/VIEApps.Components.WebSockets.dll"
   },
   {
@@ -140,7 +140,7 @@
     "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/XC.RSAUtil.dll"
   },
   {
-    "md5": "6b99052cefc0a4202e43d11fc189b77e",
+    "md5": "bb1eec0bc250a9c9b3d6c0e7b2cf894d",
     "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/Z.Expressions.Eval.dll"
   }
 ]
