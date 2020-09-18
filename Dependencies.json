@@ -20,11 +20,11 @@
     "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/Microsoft.Extensions.Caching.Memory.dll"
   },
   {
-    "md5": "f7cd382406fba62f6649543c78860252",
+    "md5": "a2e27ada92ec2f1c3af6cf0ba015363c",
     "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/Microsoft.Extensions.Configuration.Abstractions.dll"
   },
   {
-    "md5": "2b364e2f73ddc0a0dbba24f6840fa9a4",
+    "md5": "6e1e584c4bf7f3d86c59858df6d9849f",
     "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/Microsoft.Extensions.Configuration.dll"
   },
   {
@@ -32,7 +32,7 @@
     "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/Microsoft.Extensions.DependencyInjection.Abstractions.dll"
   },
   {
-    "md5": "7468b6f6aea08fc14f61b7856e0fcb4e",
+    "md5": "50f678e0e894618a07ede643551ad832",
     "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/Microsoft.Extensions.Logging.Abstractions.dll"
   },
   {
@@ -40,7 +40,7 @@
     "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/Microsoft.Extensions.Options.dll"
   },
   {
-    "md5": "38d08c53a987693a53cc5c57b8ba9ddf",
+    "md5": "f08ca33d3c8eb30307896f319ec3c345",
     "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/Microsoft.Extensions.Primitives.dll"
   },
   {
@@ -68,31 +68,31 @@
     "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/Noemax.Compression.dll"
   },
   {
-    "md5": "84b043b58ed3b1fde6563979a1110e23",
+    "md5": "37de4948feec3277bf79483a1fd09d9b",
     "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/PostSharp.dll"
   },
   {
-    "md5": "ae31567f192fca2423654bebbf0db262",
+    "md5": "7364820d1c479019d6abc30722c3144d",
     "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/PostSharp.Patterns.Aggregation.dll"
   },
   {
-    "md5": "03c166dbfa37666592678f06d3addc6d",
+    "md5": "1fde41eb4d95de4929e2b76b72630b0b",
     "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/PostSharp.Patterns.Caching.dll"
   },
   {
-    "md5": "c404a7671e5acdd1df456a6598eae414",
+    "md5": "15a69a6008354d9c50c1b6eff410413d",
     "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/PostSharp.Patterns.Common.dll"
   },
   {
-    "md5": "83b1e8204c50a3359b1e4611df094839",
+    "md5": "291de5290490351a6995759b9e5d95c6",
     "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/PostSharp.Patterns.Model.dll"
   },
   {
-    "md5": "d72e231b78793e37dca67c41f9e581f8",
+    "md5": "aa1b0413180f0a509a0cd48ae4dd84ab",
     "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/PostSharp.Patterns.Threading.dll"
   },
   {
-    "md5": "493510ce2451d2e94100a5225cd02db2",
+    "md5": "6a4bde35bdee98337650c46dc4f985f4",
     "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/RestSharp.dll"
   },
   {
@@ -124,11 +124,11 @@
     "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/System.Xml.XPath.XmlDocument.dll"
   },
   {
-    "md5": "68e52b52d72154710169eb60cec8726b",
+    "md5": "69d505b4db6c7aaad808ce2be12c1067",
     "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/VIEApps.Components.Utility.dll"
   },
   {
-    "md5": "5506c170edb0730fb468b0ad88a55a19",
+    "md5": "c360b3a204eb40bf4317447a3c7dd21a",
     "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/VIEApps.Components.WebSockets.dll"
   },
   {
@@ -140,7 +140,7 @@
     "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/XC.RSAUtil.dll"
   },
   {
-    "md5": "bb1eec0bc250a9c9b3d6c0e7b2cf894d",
+    "md5": "e1ff6f233b07ea0eafb778708aede03a",
     "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/Z.Expressions.Eval.dll"
   }
 ]
