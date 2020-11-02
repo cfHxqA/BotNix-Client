@@ -53,88 +53,95 @@
       "sha512": "",
       "type": "reference"
     },
-    "PostSharp.Patterns.Aggregation.Redist/6.6.15": {
-      "hashPath": "postsharp.patterns.aggregation.redist.6.6.15.nupkg.sha512",
+    "Portable.BouncyCastle/1.8.8": {
+      "hashPath": "portable.bouncycastle.1.8.8.nupkg.sha512",
       "path": "./",
       "serviceable": true,
-      "sha512": "sha512-uBGtSWsKaRY0uOKtTnPgp3HFcRsChW/TkuTCV1zg2jYOheTxZWCNbgytTQ9QIGOBpABOWh4CAApGw7FftY8bxA==",
+      "sha512": "sha512-1rxdf8NfyAxLlqIEciCl/yNhmz1YiLkmp6rrF8p3/NVmyHHzPWLx8djtDvSAwhPLg64BXvsRcM3+5bP1HAUdYg==",
       "type": "package"
     },
-    "PostSharp.Patterns.Aggregation/6.6.15": {
-      "hashPath": "postsharp.patterns.aggregation.6.6.15.nupkg.sha512",
+    "PostSharp.Patterns.Aggregation.Redist/6.7.10": {
+      "hashPath": "postsharp.patterns.aggregation.redist.6.7.10.nupkg.sha512",
       "path": "./",
       "serviceable": true,
-      "sha512": "sha512-pecVJY4siMpiv0xKEq1aqVnEsKk+6xscCKGQd/qxuks30qR1npeAsTMi6JvNixE86m6CvZmCaX9YTbxtT6on3w==",
+      "sha512": "sha512-nEVuZy+U/raPdhoAaOWPP07qLadb4ZAUHHk/Nv1zsZLGypzTgKjoeN48znXcILeh8pKmwDNt/cOhhrDMAHL2rg==",
       "type": "package"
     },
-    "PostSharp.Patterns.Caching.Redist/6.6.15": {
-      "hashPath": "postsharp.patterns.caching.redist.6.6.15.nupkg.sha512",
+    "PostSharp.Patterns.Aggregation/6.7.10": {
+      "hashPath": "postsharp.patterns.aggregation.6.7.10.nupkg.sha512",
       "path": "./",
       "serviceable": true,
-      "sha512": "sha512-4wAxMlbNyM2I6789tOdgFxDoL96hQJg+B8cfirOJI6QQBUDgRW/5St2F66ZEsrkPT9JF+55HxOwDsuMRBUE+vg==",
+      "sha512": "sha512-SnoSJlSfLXV0QmeHkksFDVrL22J9ch3mdZrni+Fd2QjRz77pCI3/L8AAA3dD7be76d7q0VMlfM2JmeN1nW6ciw==",
       "type": "package"
     },
-    "PostSharp.Patterns.Caching/6.6.15": {
-      "hashPath": "postsharp.patterns.caching.6.6.15.nupkg.sha512",
+    "PostSharp.Patterns.Caching.Redist/6.7.10": {
+      "hashPath": "postsharp.patterns.caching.redist.6.7.10.nupkg.sha512",
       "path": "./",
       "serviceable": true,
-      "sha512": "sha512-7akB8odaK0vbYLiESR32J35WhE3Mo67DhB88OQekwuFfCgE+WdIkF1fKS2ypAqm0KaZiYUIak5BmiU+JGdQbRw==",
+      "sha512": "sha512-S42ByjyEurWSguZOempeWTj5WHMV15q+U1S6IItAr1fXcs373UsQNmSauhVpFAFRBCQtjR4ctYHG02NYBqBbnw==",
       "type": "package"
     },
-    "PostSharp.Patterns.Common.Redist/6.6.15": {
-      "hashPath": "postsharp.patterns.common.redist.6.6.15.nupkg.sha512",
+    "PostSharp.Patterns.Caching/6.7.10": {
+      "hashPath": "postsharp.patterns.caching.6.7.10.nupkg.sha512",
       "path": "./",
       "serviceable": true,
-      "sha512": "sha512-mxW8lY+8PncByVf7TIpWQKlkOawcRHJSGrXfedgzoYXkMqvncemjHvWk+DjgdZ8ZL5jWL6yL/3gGVVeuyWFiLA==",
+      "sha512": "sha512-Kp7+wTSncob8+GhJvoJe2T3pRjsjg/7ZuY8jFaLRBNi/PvRkqz0oH50OoqYZNhKTrHhZzSFpwXNnltqE8oBfuA==",
       "type": "package"
     },
-    "PostSharp.Patterns.Common/6.6.15": {
-      "hashPath": "postsharp.patterns.common.6.6.15.nupkg.sha512",
+    "PostSharp.Patterns.Common.Redist/6.7.10": {
+      "hashPath": "postsharp.patterns.common.redist.6.7.10.nupkg.sha512",
       "path": "./",
       "serviceable": true,
-      "sha512": "sha512-WlrHdytzz9bOPGos8d17qjDh+wbC3vH9mf/Wfq30OTngDu6mhgf1nS1ec+UErw0DTd/HtN4PxcWh9GO4ijS61g==",
+      "sha512": "sha512-9FHT1ic6+yJdlSK17ImDCH6+8DP5FHa0QI2n+q26ShxrkOkqkP8BJITtZ32rVLlyx/rvYDqb3hy6OstvPhLMoQ==",
       "type": "package"
     },
-    "PostSharp.Patterns.Model.Redist/6.6.15": {
-      "hashPath": "postsharp.patterns.model.redist.6.6.15.nupkg.sha512",
+    "PostSharp.Patterns.Common/6.7.10": {
+      "hashPath": "postsharp.patterns.common.6.7.10.nupkg.sha512",
       "path": "./",
       "serviceable": true,
-      "sha512": "sha512-LHhwhW8CjLvqVg8YXF/65Dn6k9xce4pST/oiDv5JWoom3Wm8T2bbNNN1jPZ5tyhl3kGu/9SfDYjT9Eu8t4xozw==",
+      "sha512": "sha512-RruKRd+PSGIfz0UONSjT0XIeUxoWnrMr/GL1lZ+itZzr4j6ngBglwepnp51x3Vap3wTTI2dIm6jxdQ8B/HlkMA==",
       "type": "package"
     },
-    "PostSharp.Patterns.Model/6.6.15": {
-      "hashPath": "postsharp.patterns.model.6.6.15.nupkg.sha512",
+    "PostSharp.Patterns.Model.Redist/6.7.10": {
+      "hashPath": "postsharp.patterns.model.redist.6.7.10.nupkg.sha512",
       "path": "./",
       "serviceable": true,
-      "sha512": "sha512-Y5hLKo7qSOZm/i9LlOe/hNlMszAEAw1YpOzmEiPPDJfFDJOSGhHKMBHBi3XM59bfb4/l/RuAPNGFPb9L3ha3rg==",
+      "sha512": "sha512-zDNssP+HuC26GLHcD5j8vFCAfviFn6u4VkRx1DN8nM73jMGFSbg3yUt03z9rqPz698SU6lWpnhMCbx4vbmT/xQ==",
       "type": "package"
     },
-    "PostSharp.Patterns.Threading.Redist/6.6.15": {
-      "hashPath": "postsharp.patterns.threading.redist.6.6.15.nupkg.sha512",
+    "PostSharp.Patterns.Model/6.7.10": {
+      "hashPath": "postsharp.patterns.model.6.7.10.nupkg.sha512",
       "path": "./",
       "serviceable": true,
-      "sha512": "sha512-PDx+llSA4BKIC6Ydmu/lYqso1ve/CqnTrrMenFAkTmeu0kH9tS0pJikrYykmO0XD41T/YjPvT4hHgljut2/PcQ==",
+      "sha512": "sha512-AiQZZoQ+iEZk1MTL5g8mdnRM/foIOT3YsUSkMNTBuY3EzQoW6kpcFpvUEhGCpte9nTcPASPgxoY04E4xO3mxXQ==",
       "type": "package"
     },
-    "PostSharp.Patterns.Threading/6.6.15": {
-      "hashPath": "postsharp.patterns.threading.6.6.15.nupkg.sha512",
+    "PostSharp.Patterns.Threading.Redist/6.7.10": {
+      "hashPath": "postsharp.patterns.threading.redist.6.7.10.nupkg.sha512",
       "path": "./",
       "serviceable": true,
-      "sha512": "sha512-8bfsSXWSjpWBGqgBvw8QKwvah+0RytE3+wcNC4zZnx2xgrIU1rVjjg9Sv0EUjyPEoHc/SnHaTiGaoJM2n67Cxg==",
+      "sha512": "sha512-s6QhI1qnJm6xMonRfi53GNn7tB+BRO6JpFfIuCFXiUbmENJBnXmJtcApajQ792E59DPNWV3ZbSClM0RBePNqyg==",
       "type": "package"
     },
-    "PostSharp.Redist/6.6.15": {
-      "hashPath": "postsharp.redist.6.6.15.nupkg.sha512",
+    "PostSharp.Patterns.Threading/6.7.10": {
+      "hashPath": "postsharp.patterns.threading.6.7.10.nupkg.sha512",
       "path": "./",
       "serviceable": true,
-      "sha512": "sha512-MSh3ypVQhsykfL86ZX70HW2XSKbCb/qnhnd/gl1391kqoATdcepab2KFbTJzAxkz//OoF2iFLbpJh5AWknFh5g==",
+      "sha512": "sha512-gdfaSwGHy/DzPTt9Tpdmp+tzqMcvOz59NPdI5rU9nfxgssm/WeDQNlEOxfEAIRXwDrIJhObSqO2Zw6Xrgs3mGw==",
       "type": "package"
     },
-    "PostSharp/6.6.15": {
-      "hashPath": "postsharp.6.6.15.nupkg.sha512",
+    "PostSharp.Redist/6.7.10": {
+      "hashPath": "postsharp.redist.6.7.10.nupkg.sha512",
       "path": "./",
       "serviceable": true,
-      "sha512": "sha512-r1yZe+3RDPCXEYw3xPS+vk7lhi8c3UbuppdmbQLrw3Jy8QVpMYknN6YXQnQO7trYYy99ToyWz8nP4tsphZlOzw==",
+      "sha512": "sha512-oYT/usSxxrmX09Sp7/BZ4+Xi6tMTt4ngBww5JnSx4XVshVQ9j+l3eiwxSZiObl7okjEZx0zb4fgXp6t8qfFM8Q==",
+      "type": "package"
+    },
+    "PostSharp/6.7.10": {
+      "hashPath": "postsharp.6.7.10.nupkg.sha512",
+      "path": "./",
+      "serviceable": true,
+      "sha512": "sha512-zrDYahw/iH56lFCj2gMwsIcAJ1JxBiRi8A9dRIB5LhoR1q6cRBGYkjQWxOkteV6qRgQXybAgwvA/jBAu7Nt6Iw==",
       "type": "package"
     },
     "RestSharp/106.11.7": {
@@ -284,18 +291,11 @@
       "sha512": "sha512-VkUS0kOBcUf3Wwm0TSbrevDDZ6BlM+b/HRiapRFWjM5O0NS0LviG0glKmFK+hhPDd1XFeSdU1GmlLhb2CoVpIw==",
       "type": "package"
     },
-    "XC.BouncyCastle.Crypto/1.0.0": {
-      "hashPath": "xc.bouncycastle.crypto.1.0.0.nupkg.sha512",
+    "XC.RSAUtil/1.3.6": {
+      "hashPath": "xc.rsautil.1.3.6.nupkg.sha512",
       "path": "./",
       "serviceable": true,
-      "sha512": "sha512-tXs8j4//6hZkLi19GqjsAaGok0LfhrJ43UeCs4cwO7r+0nkc2Cce7VYaJVtC/GtvuNy9ocmWHBGWunD1+uOQww==",
-      "type": "package"
-    },
-    "XC.RSAUtil/1.3.5": {
-      "hashPath": "xc.rsautil.1.3.5.nupkg.sha512",
-      "path": "./",
-      "serviceable": true,
-      "sha512": "sha512-yKaPtTdpIaXP9aOev9qPFD5WHJwQNn4NX0+s4f1+0D80GFOU+srhJh4MEGwc+j5L9PQjcNuJOWmthW6JFE7ayw==",
+      "sha512": "sha512-V52E/1rJ++bBCQZ3+jtxqlKk5Cpeq4u/TnlOVEog5Tc7RG04wUTboQ23iBZZW1r1g6kIRKyMSpXZ99RQOLG7sQ==",
       "type": "package"
     },
     "nulastudio.NetCoreBeauty/1.2.9": {
@@ -318,11 +318,11 @@
           "BotNix.Utilities": "2.0.0",
           "NetCoreServer": "3.0.6",
           "Noemax.Compression": "18.14.5339.0",
-          "PostSharp": "6.6.15",
-          "PostSharp.Patterns.Caching": "6.6.15",
-          "PostSharp.Patterns.Model": "6.6.15",
+          "PostSharp": "6.7.10",
+          "PostSharp.Patterns.Caching": "6.7.10",
+          "PostSharp.Patterns.Model": "6.7.10",
           "RestSharp": "106.11.7",
-          "XC.RSAUtil": "1.3.5",
+          "XC.RSAUtil": "1.3.6",
           "nulastudio.NetCoreBeauty": "1.2.9"
         },
         "runtime": {
@@ -333,9 +333,9 @@
         "dependencies": {
           "BotNix.Utilities": "2.0.0",
           "Newtonsoft.Json": "12.0.3",
-          "PostSharp": "6.6.15",
-          "PostSharp.Patterns.Caching": "6.6.15",
-          "PostSharp.Patterns.Model": "6.6.15",
+          "PostSharp": "6.7.10",
+          "PostSharp.Patterns.Caching": "6.7.10",
+          "PostSharp.Patterns.Model": "6.7.10",
           "RestSharp": "106.11.7"
         },
         "runtime": {
@@ -345,7 +345,7 @@
       "BotNix.Utilities/2.0.0": {
         "dependencies": {
           "Newtonsoft.Json": "12.0.3",
-          "PostSharp.Patterns.Threading": "6.6.15",
+          "PostSharp.Patterns.Threading": "6.7.10",
           "RestSharp": "106.11.7"
         },
         "runtime": {
@@ -369,23 +369,28 @@
           "./Noemax.Compression.dll": {}
         }
       },
-      "PostSharp.Patterns.Aggregation.Redist/6.6.15": {
+      "Portable.BouncyCastle/1.8.8": {
+        "runtime": {
+          "./BouncyCastle.Crypto.dll": {}
+        }
+      },
+      "PostSharp.Patterns.Aggregation.Redist/6.7.10": {
         "dependencies": {
-          "PostSharp.Patterns.Common.Redist": "6.6.15"
+          "PostSharp.Patterns.Common.Redist": "6.7.10"
         },
         "runtime": {
           "./PostSharp.Patterns.Aggregation.dll": {}
         }
       },
-      "PostSharp.Patterns.Aggregation/6.6.15": {
+      "PostSharp.Patterns.Aggregation/6.7.10": {
         "dependencies": {
-          "PostSharp.Patterns.Aggregation.Redist": "6.6.15",
-          "PostSharp.Patterns.Common": "6.6.15"
+          "PostSharp.Patterns.Aggregation.Redist": "6.7.10",
+          "PostSharp.Patterns.Common": "6.7.10"
         }
       },
-      "PostSharp.Patterns.Caching.Redist/6.6.15": {
+      "PostSharp.Patterns.Caching.Redist/6.7.10": {
         "dependencies": {
-          "PostSharp.Patterns.Common.Redist": "6.6.15",
+          "PostSharp.Patterns.Common.Redist": "6.7.10",
           "System.Collections.Immutable": "1.3.1",
           "System.Runtime.Caching": "4.5.0"
         },
@@ -393,62 +398,62 @@
           "./PostSharp.Patterns.Caching.dll": {}
         }
       },
-      "PostSharp.Patterns.Caching/6.6.15": {
+      "PostSharp.Patterns.Caching/6.7.10": {
         "dependencies": {
-          "PostSharp.Patterns.Caching.Redist": "6.6.15",
-          "PostSharp.Patterns.Common": "6.6.15"
+          "PostSharp.Patterns.Caching.Redist": "6.7.10",
+          "PostSharp.Patterns.Common": "6.7.10"
         }
       },
-      "PostSharp.Patterns.Common.Redist/6.6.15": {
+      "PostSharp.Patterns.Common.Redist/6.7.10": {
         "dependencies": {
-          "PostSharp.Redist": "6.6.15"
+          "PostSharp.Redist": "6.7.10"
         },
         "runtime": {
           "./PostSharp.Patterns.Common.dll": {}
         }
       },
-      "PostSharp.Patterns.Common/6.6.15": {
+      "PostSharp.Patterns.Common/6.7.10": {
         "dependencies": {
-          "PostSharp": "6.6.15",
-          "PostSharp.Patterns.Common.Redist": "6.6.15"
+          "PostSharp": "6.7.10",
+          "PostSharp.Patterns.Common.Redist": "6.7.10"
         }
       },
-      "PostSharp.Patterns.Model.Redist/6.6.15": {
+      "PostSharp.Patterns.Model.Redist/6.7.10": {
         "dependencies": {
-          "PostSharp.Patterns.Aggregation.Redist": "6.6.15"
+          "PostSharp.Patterns.Aggregation.Redist": "6.7.10"
         },
         "runtime": {
           "./PostSharp.Patterns.Model.dll": {}
         }
       },
-      "PostSharp.Patterns.Model/6.6.15": {
+      "PostSharp.Patterns.Model/6.7.10": {
         "dependencies": {
-          "PostSharp.Patterns.Aggregation": "6.6.15",
-          "PostSharp.Patterns.Model.Redist": "6.6.15"
+          "PostSharp.Patterns.Aggregation": "6.7.10",
+          "PostSharp.Patterns.Model.Redist": "6.7.10"
         }
       },
-      "PostSharp.Patterns.Threading.Redist/6.6.15": {
+      "PostSharp.Patterns.Threading.Redist/6.7.10": {
         "dependencies": {
-          "PostSharp.Patterns.Aggregation.Redist": "6.6.15"
+          "PostSharp.Patterns.Aggregation.Redist": "6.7.10"
         },
         "runtime": {
           "./PostSharp.Patterns.Threading.dll": {}
         }
       },
-      "PostSharp.Patterns.Threading/6.6.15": {
+      "PostSharp.Patterns.Threading/6.7.10": {
         "dependencies": {
-          "PostSharp.Patterns.Aggregation": "6.6.15",
-          "PostSharp.Patterns.Threading.Redist": "6.6.15"
+          "PostSharp.Patterns.Aggregation": "6.7.10",
+          "PostSharp.Patterns.Threading.Redist": "6.7.10"
         }
       },
-      "PostSharp.Redist/6.6.15": {
+      "PostSharp.Redist/6.7.10": {
         "runtime": {
           "./PostSharp.dll": {}
         }
       },
-      "PostSharp/6.6.15": {
+      "PostSharp/6.7.10": {
         "dependencies": {
-          "PostSharp.Redist": "6.6.15"
+          "PostSharp.Redist": "6.7.10"
         }
       },
       "RestSharp/106.11.7": {
@@ -629,14 +634,9 @@
           "System.Threading.Tasks": "4.3.0"
         }
       },
-      "XC.BouncyCastle.Crypto/1.0.0": {
-        "runtime": {
-          "./XC.BouncyCastle.Crypto.dll": {}
-        }
-      },
-      "XC.RSAUtil/1.3.5": {
+      "XC.RSAUtil/1.3.6": {
         "dependencies": {
-          "XC.BouncyCastle.Crypto": "1.0.0"
+          "Portable.BouncyCastle": "1.8.8"
         },
         "runtime": {
           "./XC.RSAUtil.dll": {}
