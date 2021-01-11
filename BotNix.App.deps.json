@@ -1,19 +1,19 @@
 {
   "compilationOptions": {},
   "libraries": {
-    "BotNix.App/2.2.0.2": {
+    "BotNix.App/2.3.0.0": {
       "path": "./",
       "serviceable": false,
       "sha512": "",
       "type": "project"
     },
-    "BotNix.Updater/2.0.0": {
+    "BotNix.Updater/2.3.0": {
       "path": "./",
       "serviceable": false,
       "sha512": "",
       "type": "project"
     },
-    "BotNix.Utilities/2.0.0": {
+    "BotNix.Utilities/2.3.0": {
       "path": "./",
       "serviceable": false,
       "sha512": "",
@@ -228,10 +228,10 @@
   },
   "targets": {
     ".NETCoreApp,Version=v5.0": {
-      "BotNix.App/2.2.0.2": {
+      "BotNix.App/2.3.0.0": {
         "dependencies": {
-          "BotNix.Updater": "2.0.0",
-          "BotNix.Utilities": "2.0.0",
+          "BotNix.Updater": "2.3.0",
+          "BotNix.Utilities": "2.3.0",
           "NetCoreServer": "3.0.6",
           "Noemax.Compression": "18.14.5339.0",
           "PostSharp": "6.8.7",
@@ -245,9 +245,9 @@
           "./BotNix.App.dll": {}
         }
       },
-      "BotNix.Updater/2.0.0": {
+      "BotNix.Updater/2.3.0": {
         "dependencies": {
-          "BotNix.Utilities": "2.0.0",
+          "BotNix.Utilities": "2.3.0",
           "Newtonsoft.Json": "12.0.3",
           "PostSharp": "6.8.7",
           "PostSharp.Patterns.Caching": "6.8.7",
@@ -258,7 +258,7 @@
           "./BotNix.Updater.dll": {}
         }
       },
-      "BotNix.Utilities/2.0.0": {
+      "BotNix.Utilities/2.3.0": {
         "dependencies": {
           "Newtonsoft.Json": "12.0.3",
           "PostSharp.Patterns.Threading": "6.8.7",
