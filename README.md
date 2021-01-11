@@ -1,6 +1,3 @@
-
-
-  
 <p align="center">
   <a href="https://discord.gg/8FMzSRJ">
     <img src="https://discordapp.com/api/guilds/365129052832530433/widget.png?style=banner2" />
@@ -9,7 +6,7 @@
 
 # Requirements (Windows-/MacOS-/Linux)
 
-- [.NET Core 3.1 Runtime or higher]([https://dotnet.microsoft.com/download/dotnet-core/current/runtime](https://dotnet.microsoft.com/download/dotnet-core/current/runtime))
+- [.NET 5.0 Runtime or higher]([https://dotnet.microsoft.com/download/dotnet-core/current/runtime](https://dotnet.microsoft.com/download/dotnet-core/current/runtime))
 
 # Legal
 
