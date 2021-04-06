@@ -1,6 +1,6 @@
 [
   {
-    "md5": "8062b3792f5f1ff7f7c2eb3e7c9c1e56",
+    "md5": "9301b9fd6609174222535ea9f606287f",
     "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/BeetleX.dll"
   },
   {
@@ -12,7 +12,7 @@
     "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/Microsoft.Win32.SystemEvents.dll"
   },
   {
-    "md5": "9454ae6eb0c6ad77e93a95074ba29266",
+    "md5": "916d32b899f1bc23b209648d007b99fd",
     "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/Newtonsoft.Json.dll"
   },
   {
@@ -20,27 +20,27 @@
     "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/Noemax.Compression.dll"
   },
   {
-    "md5": "468e6baab48d2bedc95ed70e55ac1953",
+    "md5": "5c325eaea33500be23e79e868fe3d5e8",
     "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/PostSharp.dll"
   },
   {
-    "md5": "e05244184a4fce7308299839f64f321e",
+    "md5": "cf10e7cf94b95f1869fd3f509e8d3fa3",
     "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/PostSharp.Patterns.Aggregation.dll"
   },
   {
-    "md5": "f2ffb7a22fab0c4719a5a014a55f25ce",
+    "md5": "c76847b270082a4f59362329781a34fa",
     "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/PostSharp.Patterns.Caching.dll"
   },
   {
-    "md5": "00ce6ed9431c2d85904e4604c224a2b6",
+    "md5": "61453cce83cdb2371c0b575cd365f74e",
     "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/PostSharp.Patterns.Common.dll"
   },
   {
-    "md5": "e8dca5ac08b9f655d9e7c173d7021ab3",
+    "md5": "54d9e08936efd21c0052a69ef74d06ba",
     "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/PostSharp.Patterns.Model.dll"
   },
   {
-    "md5": "004f122f632bc2b3f2993459df3e5ff2",
+    "md5": "e9b23abd9b096e6f840124519d7bc364",
     "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/PostSharp.Patterns.Threading.dll"
   },
   {
