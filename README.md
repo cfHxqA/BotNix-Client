@@ -6,7 +6,7 @@
 
 # Requirements (Windows-/MacOS-/Linux)
 
-- [.NET 5.0 Runtime or higher]([https://dotnet.microsoft.com/download/dotnet-core/current/runtime](https://dotnet.microsoft.com/download/dotnet-core/current/runtime))
+- [.NET 6.0 Runtime or higher](https://dotnet.microsoft.com/download)*
 
 # Legal
 
