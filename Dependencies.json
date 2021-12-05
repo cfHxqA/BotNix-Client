@@ -8,10 +8,6 @@
     "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/BouncyCastle.Crypto.dll"
   },
   {
-    "md5": "52c8b8b9b9042e81ac37425279af8080",
-    "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/Microsoft.Win32.SystemEvents.dll"
-  },
-  {
     "md5": "916d32b899f1bc23b209648d007b99fd",
     "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/Newtonsoft.Json.dll"
   },
@@ -52,24 +48,12 @@
     "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/System.Configuration.ConfigurationManager.dll"
   },
   {
-    "md5": "916949ef1ba93758bd98d58a6b278092",
-    "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/System.Drawing.Common.dll"
-  },
-  {
     "md5": "7237c760e089f1ecbb72e8201ed93248",
     "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/System.Runtime.Caching.dll"
   },
   {
-    "md5": "538fee2001d33945a4c4621505e27ad5",
-    "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/System.Security.Cryptography.ProtectedData.dll"
-  },
-  {
     "md5": "3e045924190b6bd04a0f416d901d8d37",
     "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/System.Security.Permissions.dll"
-  },
-  {
-    "md5": "75d0858b4e49b817e469cc302b3a90a4",
-    "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/System.Windows.Extensions.dll"
   },
   {
     "md5": "d0010fe175efbb0a6e1a6a12a37210fe",
