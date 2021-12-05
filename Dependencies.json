@@ -8,6 +8,10 @@
     "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/BouncyCastle.Crypto.dll"
   },
   {
+    "md5": "52c8b8b9b9042e81ac37425279af8080",
+    "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/Microsoft.Win32.SystemEvents.dll"
+  },
+  {
     "md5": "916d32b899f1bc23b209648d007b99fd",
     "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/Newtonsoft.Json.dll"
   },
