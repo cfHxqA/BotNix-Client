@@ -4,10 +4,6 @@
     "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/BeetleX.dll"
   },
   {
-    "md5": "9e5cb3062012f4f3a52b4b2e8dd0e00c",
-    "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/BouncyCastle.Crypto.dll"
-  },
-  {
     "md5": "8074b0eeb2d4cf9b1a6b26865bf91aa5",
     "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/Microsoft.Bcl.AsyncInterfaces.dll"
   },
