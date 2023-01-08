@@ -80,11 +80,23 @@
     "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/System.Security.Permissions.dll"
   },
   {
+    "md5": "6bf4b8d9dd61f13b30bd6eda60917f6e",
+    "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/System.ServiceModel.dll"
+  },
+  {
     "md5": "6f3564a3954fab32a47180aad82b1016",
     "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/System.Windows.Extensions.dll"
   },
   {
-    "md5": "d0010fe175efbb0a6e1a6a12a37210fe",
-    "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/XC.RSAUtil.dll"
+    "md5": "f38ef4c6e2a210f2e0b79c9b77256f30",
+    "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/Virgil.Crypto.dll"
+  },
+  {
+    "md5": "e7167e1d660dadb6f18e4ec092f04883",
+    "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/Virgil.CryptoImpl.dll"
+  },
+  {
+    "md5": "0e5458f96d617a88af755a1775412b4b",
+    "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/VirgilCryptoAPI.dll"
   }
 ]
