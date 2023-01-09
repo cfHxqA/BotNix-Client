@@ -4,6 +4,14 @@
     "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/BeetleX.dll"
   },
   {
+    "md5": "543a33bc914472af3b7a0e00456c26c5",
+    "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/DidiSoft.BouncyCastle.dll"
+  },
+  {
+    "md5": "601b1b6ffaa0f36e3c6e3c164da95957",
+    "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/DidiSoft.Pgp.dll"
+  },
+  {
     "md5": "8074b0eeb2d4cf9b1a6b26865bf91aa5",
     "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/Microsoft.Bcl.AsyncInterfaces.dll"
   },
@@ -82,17 +90,5 @@
   {
     "md5": "6f3564a3954fab32a47180aad82b1016",
     "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/System.Windows.Extensions.dll"
-  },
-  {
-    "md5": "f38ef4c6e2a210f2e0b79c9b77256f30",
-    "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/Virgil.Crypto.dll"
-  },
-  {
-    "md5": "e7167e1d660dadb6f18e4ec092f04883",
-    "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/Virgil.CryptoImpl.dll"
-  },
-  {
-    "md5": "0e5458f96d617a88af755a1775412b4b",
-    "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/VirgilCryptoAPI.dll"
   }
 ]
