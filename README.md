@@ -1,12 +1,8 @@
-<p align="center">
-  <a href="https://discord.gg/8FMzSRJ">
-    <img src="https://discordapp.com/api/guilds/365129052832530433/widget.png?style=banner2" />
-  </a>
-</p>
-
-# Requirements (Windows-/MacOS-/Linux)
+# Requirements (Win8+/MacOS/Linux/ARM)
 
 - [.NET 7.0 SDK or higher](https://dotnet.microsoft.com/download)*
+
+* Be sure to install the **32- and 64-bit version on windows**! Both are absolutely necessary!
 
 # Legal
 
