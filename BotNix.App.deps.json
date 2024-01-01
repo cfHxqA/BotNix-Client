@@ -233,11 +233,11 @@
     }
   },
   "runtimeTarget": {
-    "name": ".NETCoreApp,Version=v7.0",
+    "name": ".NETCoreApp,Version=v8.0",
     "signature": ""
   },
   "targets": {
-    ".NETCoreApp,Version=v7.0": {
+    ".NETCoreApp,Version=v8.0": {
       "BeetleX/1.8.9.707": {
         "runtime": {
           "./BeetleX.dll": {}
