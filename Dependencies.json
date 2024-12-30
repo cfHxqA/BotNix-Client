@@ -1,5 +1,57 @@
 [
   {
+    "md5": "0711d07c2ed0bf0a8b512e85b00a67f0",
+    "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/Microsoft.Win32.SystemEvents.dll"
+  },
+  {
+    "md5": "f7541ec3df7a001fe2a9013ac31d4e2c",
+    "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/System.Linq.Async.dll"
+  },
+  {
+    "md5": "30114f00aba8c264684d35eacbabb2e8",
+    "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/System.Security.Permissions.dll"
+  },
+  {
+    "md5": "601b1b6ffaa0f36e3c6e3c164da95957",
+    "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/DidiSoft.Pgp.dll"
+  },
+  {
+    "md5": "d8169e24a7f0815a3d09876550224f28",
+    "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/PostSharp.Patterns.Common.dll"
+  },
+  {
+    "md5": "020d546ec6230ea4af42fa0265316e56",
+    "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/PostSharp.Patterns.Threading.dll"
+  },
+  {
+    "md5": "6bf4b8d9dd61f13b30bd6eda60917f6e",
+    "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/System.ServiceModel.dll"
+  },
+  {
+    "md5": "0c3f8ebf188a681c1bf940bc012fa7fd",
+    "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/System.Private.Windows.Core.dll"
+  },
+  {
+    "md5": "122ed4ef081a0ffa22c798a099752ad1",
+    "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/PostSharp.Patterns.Aggregation.dll"
+  },
+  {
+    "md5": "909596653411252f6e7511d18400cd00",
+    "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/System.Windows.Extensions.dll"
+  },
+  {
+    "md5": "50258dd368add9d5903d10d6a18b3de8",
+    "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/PostSharp.dll"
+  },
+  {
+    "md5": "2da4adb065f10d2fa4c73fb6639d9ff9",
+    "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/Noemax.Compression.dll"
+  },
+  {
+    "md5": "00291d16ee4a0a7c01a9d72ce45db074",
+    "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/PostSharp.Patterns.Model.dll"
+  },
+  {
     "md5": "4d6a876de9a9adde63746f06733b5a63",
     "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/BeetleX.dll"
   },
@@ -8,48 +60,20 @@
     "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/DidiSoft.BouncyCastle.dll"
   },
   {
-    "md5": "601b1b6ffaa0f36e3c6e3c164da95957",
-    "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/DidiSoft.Pgp.dll"
-  },
-  {
-    "md5": "8074b0eeb2d4cf9b1a6b26865bf91aa5",
-    "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/Microsoft.Bcl.AsyncInterfaces.dll"
-  },
-  {
-    "md5": "0711d07c2ed0bf0a8b512e85b00a67f0",
-    "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/Microsoft.Win32.SystemEvents.dll"
-  },
-  {
     "md5": "adf3e3eecde20b7c9661e9c47106a14a",
     "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/Newtonsoft.Json.dll"
-  },
-  {
-    "md5": "2da4adb065f10d2fa4c73fb6639d9ff9",
-    "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/Noemax.Compression.dll"
-  },
-  {
-    "md5": "50258dd368add9d5903d10d6a18b3de8",
-    "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/PostSharp.dll"
-  },
-  {
-    "md5": "122ed4ef081a0ffa22c798a099752ad1",
-    "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/PostSharp.Patterns.Aggregation.dll"
   },
   {
     "md5": "fb28b97b56559cd96a6d1280561a001d",
     "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/PostSharp.Patterns.Caching.dll"
   },
   {
-    "md5": "d8169e24a7f0815a3d09876550224f28",
-    "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/PostSharp.Patterns.Common.dll"
+    "md5": "fda921fb799406eb3f8f68b23a4690a4",
+    "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/System.Security.Cryptography.ProtectedData.dll"
   },
   {
-    "md5": "00291d16ee4a0a7c01a9d72ce45db074",
-    "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/PostSharp.Patterns.Model.dll"
-  },
-  {
-    "md5": "020d546ec6230ea4af42fa0265316e56",
-    "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/PostSharp.Patterns.Threading.dll"
+    "md5": "7237c760e089f1ecbb72e8201ed93248",
+    "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/System.Runtime.Caching.dll"
   },
   {
     "md5": "0f35a148008cea4aa8f69673a208e850",
@@ -68,31 +92,7 @@
     "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/System.Drawing.Common.dll"
   },
   {
-    "md5": "f7541ec3df7a001fe2a9013ac31d4e2c",
-    "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/System.Linq.Async.dll"
-  },
-  {
-    "md5": "0c3f8ebf188a681c1bf940bc012fa7fd",
-    "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/System.Private.Windows.Core.dll"
-  },
-  {
-    "md5": "7237c760e089f1ecbb72e8201ed93248",
-    "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/System.Runtime.Caching.dll"
-  },
-  {
-    "md5": "fda921fb799406eb3f8f68b23a4690a4",
-    "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/System.Security.Cryptography.ProtectedData.dll"
-  },
-  {
-    "md5": "30114f00aba8c264684d35eacbabb2e8",
-    "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/System.Security.Permissions.dll"
-  },
-  {
-    "md5": "6bf4b8d9dd61f13b30bd6eda60917f6e",
-    "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/System.ServiceModel.dll"
-  },
-  {
-    "md5": "909596653411252f6e7511d18400cd00",
-    "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/System.Windows.Extensions.dll"
+    "md5": "8074b0eeb2d4cf9b1a6b26865bf91aa5",
+    "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/Dependencies/Microsoft.Bcl.AsyncInterfaces.dll"
   }
 ]
