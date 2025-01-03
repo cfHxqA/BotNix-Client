@@ -1,1 +1,0 @@
-start dotnet "BotNix.App.dll"
