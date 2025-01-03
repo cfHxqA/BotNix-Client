@@ -1,5 +1,9 @@
 [
   {
+    "md5": "36b36014a19978afb6aea0b487ae4832",
+    "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/BotNix.App-Updater.bat"
+  },
+  {
     "md5": "dd74a3f04af98d5758c79292be8edbec",
     "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/BotNix.App.deps.json"
   },
@@ -8,7 +12,7 @@
     "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/BotNix.App.dll"
   },
   {
-    "md5": "2d6b4fa12c6ee8f53765ecae90a5b3b4",
+    "md5": "74577d1addef5d57180e484b8a19f37d",
     "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/BotNix.App.exe"
   },
   {
