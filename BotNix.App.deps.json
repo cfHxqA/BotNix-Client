@@ -57,11 +57,11 @@
       "sha512": "sha512-UcSjPsst+DfAdJGVDsu346FX0ci0ah+lw3WRtn18NUwEqRt70HaOQ7lI72vy3+1LxtqI3T5GWwV39rQSrCzAeg==",
       "type": "package"
     },
-    "Microsoft.Win32.SystemEvents/9.0.0": {
-      "hashPath": "microsoft.win32.systemevents.9.0.0.nupkg.sha512",
+    "Microsoft.Win32.SystemEvents/9.0.4": {
+      "hashPath": "microsoft.win32.systemevents.9.0.4.nupkg.sha512",
       "path": "./",
       "serviceable": true,
-      "sha512": "sha512-z8FfGIaoeALdD+KF44A2uP8PZIQQtDGiXsOLuN8nohbKhkyKt7zGaZb+fKiCxTuBqG22Q7myIAioSWaIcOOrOw==",
+      "sha512": "sha512-kHgtAkXhNEP8oGuAVe3Q5admxsdMlSdWE2rXcA9FfeGDZJQawPccmZgnOswgW3ugUPSJt7VH+TMQPz65mnhGSQ==",
       "type": "package"
     },
     "Newtonsoft.Json/13.0.3": {
@@ -168,25 +168,25 @@
       "sha512": "sha512-phq1AkVhqVXHZxvWDV4fJEJKCR5OHNFUGx2Ix8o5EFShS6654oZhth4X2RWvaU/W7UexIswW0T+lTirxfLU2Ow==",
       "type": "package"
     },
-    "System.Configuration.ConfigurationManager/9.0.0": {
-      "hashPath": "system.configuration.configurationmanager.9.0.0.nupkg.sha512",
+    "System.Configuration.ConfigurationManager/9.0.4": {
+      "hashPath": "system.configuration.configurationmanager.9.0.4.nupkg.sha512",
       "path": "./",
       "serviceable": true,
-      "sha512": "sha512-PdkuMrwDhXoKFo/JxISIi9E8L+QGn9Iquj2OKDWHB6Y/HnUOuBouF7uS3R4Hw3FoNmwwMo6hWgazQdyHIIs27A==",
+      "sha512": "sha512-dvjqKp+2LpGid6phzrdrS/2mmEPxFl3jE1+L7614q4ZChKbLJCpHXg6sBILlCCED1t//EE+un/UdAetzIMpqnw==",
       "type": "package"
     },
-    "System.Diagnostics.EventLog/9.0.0": {
-      "hashPath": "system.diagnostics.eventlog.9.0.0.nupkg.sha512",
+    "System.Diagnostics.EventLog/9.0.4": {
+      "hashPath": "system.diagnostics.eventlog.9.0.4.nupkg.sha512",
       "path": "./",
       "serviceable": true,
-      "sha512": "sha512-qd01+AqPhbAG14KtdtIqFk+cxHQFZ/oqRSCoxU1F+Q6Kv0cl726sl7RzU9yLFGd4BUOKdN4XojXF0pQf/R6YeA==",
+      "sha512": "sha512-getRQEXD8idlpb1KW56XuxImMy0FKp2WJPDf3Qr0kI/QKxxJSftqfDFVo0DZ3HCJRLU73qHSruv5q2l5O47jQQ==",
       "type": "package"
     },
-    "System.Drawing.Common/9.0.0": {
-      "hashPath": "system.drawing.common.9.0.0.nupkg.sha512",
+    "System.Drawing.Common/9.0.4": {
+      "hashPath": "system.drawing.common.9.0.4.nupkg.sha512",
       "path": "./",
       "serviceable": true,
-      "sha512": "sha512-uoozjI3+dlgKh2onFJcz8aNLh6TRCPlLSh8Dbuljc8CdvqXrxHOVysJlrHvlsOCqceqGBR1wrMPxlnzzhynktw==",
+      "sha512": "sha512-SbtusMUT1bCxZ14904ZPo2GZyelze0rwUni9wXrp8KX9Zlsda8idqpxra1RBvOA85WM0wW+fCI4GLrlCTYiE6A==",
       "type": "package"
     },
     "System.Linq.Async/6.0.1": {
@@ -203,18 +203,18 @@
       "sha512": "sha512-30D6MkO8WF9jVGWZIP0hmCN8l9BTY4LCsAzLIe4xFSXzs+AjDotR7DpSmj27pFskDURzUvqYYY0ikModgBTxWw==",
       "type": "package"
     },
-    "System.Security.Cryptography.ProtectedData/9.0.0": {
-      "hashPath": "system.security.cryptography.protecteddata.9.0.0.nupkg.sha512",
+    "System.Security.Cryptography.ProtectedData/9.0.4": {
+      "hashPath": "system.security.cryptography.protecteddata.9.0.4.nupkg.sha512",
       "path": "./",
       "serviceable": true,
-      "sha512": "sha512-CJW+x/F6fmRQ7N6K8paasTw9PDZp4t7G76UjGNlSDgoHPF0h08vTzLYbLZpOLEJSg35d5wy2jCXGo84EN05DpQ==",
+      "sha512": "sha512-o94k2RKuAce3GeDMlUvIXlhVa1kWpJw95E6C9LwW0KlG0nj5+SgCiIxJ2Eroqb9sLtG1mEMbFttZIBZ13EJPvQ==",
       "type": "package"
     },
-    "System.Security.Permissions/9.0.0": {
-      "hashPath": "system.security.permissions.9.0.0.nupkg.sha512",
+    "System.Security.Permissions/9.0.4": {
+      "hashPath": "system.security.permissions.9.0.4.nupkg.sha512",
       "path": "./",
       "serviceable": true,
-      "sha512": "sha512-H2VFD4SFVxieywNxn9/epb63/IOcPPfA0WOtfkljzNfu7GCcHIBQNuwP6zGCEIi7Ci/oj8aLPUNK9sYImMFf4Q==",
+      "sha512": "sha512-klHa+d7n6Nc7IjaJygnbqgTMoYOQCaCP/G38T0vjIDuls9uatPsyofrTc3OQBdcKk/rjGDSIzIFUX/OF4yxVlQ==",
       "type": "package"
     },
     "System.Text.Json/4.7.2": {
@@ -224,11 +224,11 @@
       "sha512": "sha512-TcMd95wcrubm9nHvJEQs70rC0H/8omiSGGpU4FQ/ZA1URIqD4pjmFJh2Mfv1yH1eHgJDWTi2hMDXwTET+zOOyg==",
       "type": "package"
     },
-    "System.Windows.Extensions/9.0.0": {
-      "hashPath": "system.windows.extensions.9.0.0.nupkg.sha512",
+    "System.Windows.Extensions/9.0.4": {
+      "hashPath": "system.windows.extensions.9.0.4.nupkg.sha512",
       "path": "./",
       "serviceable": true,
-      "sha512": "sha512-U9msthvnH2Fsw7xwAvIhNHOdnIjOQTwOc8Vd0oGOsiRcGMGoBFlUD6qtYawRUoQdKH9ysxesZ9juFElt1Jw/7A==",
+      "sha512": "sha512-LBfgiBxCpJWch0PI7h55FyzlCdSXxBZM2/B/H+v1SBkhux/Da8L3fIP+r7WFwNuTfKiClNfB0Ne3BL12xiCEGw==",
       "type": "package"
     },
     "nulastudio.NetCoreBeauty/1.2.9.5": {
@@ -258,13 +258,13 @@
           "BotNix.Utilities": "2.3.0",
           "BotNix.Utilities.Reference": "2.3.0.0",
           "DidiSoft.Pgp": "1.9.4.12",
-          "Microsoft.Win32.SystemEvents": "9.0.0",
+          "Microsoft.Win32.SystemEvents": "9.0.4",
           "Noemax.Compression": "18.14.5339.0",
           "RestSharp": "108.0.3",
-          "System.Configuration.ConfigurationManager": "9.0.0",
-          "System.Drawing.Common": "9.0.0",
-          "System.Security.Cryptography.ProtectedData": "9.0.0",
-          "System.Security.Permissions": "9.0.0",
+          "System.Configuration.ConfigurationManager": "9.0.4",
+          "System.Drawing.Common": "9.0.4",
+          "System.Security.Cryptography.ProtectedData": "9.0.4",
+          "System.Security.Permissions": "9.0.4",
           "nulastudio.NetCoreBeauty": "1.2.9.5"
         },
         "runtime": {
@@ -322,7 +322,7 @@
           "./Microsoft.Bcl.AsyncInterfaces.dll": {}
         }
       },
-      "Microsoft.Win32.SystemEvents/9.0.0": {
+      "Microsoft.Win32.SystemEvents/9.0.4": {
         "runtime": {
           "./Microsoft.Win32.SystemEvents.dll": {}
         },
@@ -330,7 +330,7 @@
           "runtimes/win/lib/net9.0/Microsoft.Win32.SystemEvents.dll": {
             "assemblyVersion": "9.0.0.0",
             "assetType": "runtime",
-            "fileVersion": "9.0.24.52809",
+            "fileVersion": "9.0.425.16305",
             "rid": "win"
           }
         }
@@ -432,16 +432,16 @@
           "./RestSharp.dll": {}
         }
       },
-      "System.Configuration.ConfigurationManager/9.0.0": {
+      "System.Configuration.ConfigurationManager/9.0.4": {
         "dependencies": {
-          "System.Diagnostics.EventLog": "9.0.0",
-          "System.Security.Cryptography.ProtectedData": "9.0.0"
+          "System.Diagnostics.EventLog": "9.0.4",
+          "System.Security.Cryptography.ProtectedData": "9.0.4"
         },
         "runtime": {
           "./System.Configuration.ConfigurationManager.dll": {}
         }
       },
-      "System.Diagnostics.EventLog/9.0.0": {
+      "System.Diagnostics.EventLog/9.0.4": {
         "runtime": {
           "./System.Diagnostics.EventLog.dll": {}
         },
@@ -455,14 +455,14 @@
           "runtimes/win/lib/net9.0/System.Diagnostics.EventLog.dll": {
             "assemblyVersion": "9.0.0.0",
             "assetType": "runtime",
-            "fileVersion": "9.0.24.52809",
+            "fileVersion": "9.0.425.16305",
             "rid": "win"
           }
         }
       },
-      "System.Drawing.Common/9.0.0": {
+      "System.Drawing.Common/9.0.4": {
         "dependencies": {
-          "Microsoft.Win32.SystemEvents": "9.0.0"
+          "Microsoft.Win32.SystemEvents": "9.0.4"
         },
         "runtime": {
           "./System.Drawing.Common.dll": {},
@@ -479,7 +479,7 @@
       },
       "System.Runtime.Caching/5.0.0": {
         "dependencies": {
-          "System.Configuration.ConfigurationManager": "9.0.0"
+          "System.Configuration.ConfigurationManager": "9.0.4"
         },
         "runtime": {
           "./System.Runtime.Caching.dll": {}
@@ -493,21 +493,21 @@
           }
         }
       },
-      "System.Security.Cryptography.ProtectedData/9.0.0": {
+      "System.Security.Cryptography.ProtectedData/9.0.4": {
         "runtime": {
           "./System.Security.Cryptography.ProtectedData.dll": {}
         }
       },
-      "System.Security.Permissions/9.0.0": {
+      "System.Security.Permissions/9.0.4": {
         "dependencies": {
-          "System.Windows.Extensions": "9.0.0"
+          "System.Windows.Extensions": "9.0.4"
         },
         "runtime": {
           "./System.Security.Permissions.dll": {}
         }
       },
       "System.Text.Json/4.7.2": {},
-      "System.Windows.Extensions/9.0.0": {
+      "System.Windows.Extensions/9.0.4": {
         "runtime": {
           "./System.Windows.Extensions.dll": {}
         },
@@ -515,7 +515,7 @@
           "runtimes/win/lib/net9.0/System.Windows.Extensions.dll": {
             "assemblyVersion": "9.0.0.0",
             "assetType": "runtime",
-            "fileVersion": "9.0.24.52809",
+            "fileVersion": "9.0.425.16305",
             "rid": "win"
           }
         }
