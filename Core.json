@@ -4,10 +4,6 @@
     "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/BotNix.App.deps.json"
   },
   {
-    "md5": "875db143f304d545dce027bbf5e1c7e7",
-    "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/runtimes.json"
-  },
-  {
     "md5": "d2236e6fb318a0d411f2c9a70fd274b4",
     "url": "https://raw.githubusercontent.com/cfHxqA/BotNix-Client/master/BotNix.App.dll"
   },
