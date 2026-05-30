@@ -1,0 +1,16 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "runtimes", "Core", "Dependencies"
+    ],
+    "configProperties": {
+      "System.Reflection.Metadata.MetadataUpdater.IsSupported": false,
+      "System.Runtime.Serialization.EnableUnsafeBinaryFormatterSerialization": false
+    },
+    "framework": {
+      "name": "Microsoft.NETCore.App",
+      "version": "10.0.0"
+    },
+    "tfm": "net10.0"
+  }
+}
