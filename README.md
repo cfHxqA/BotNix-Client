@@ -1,12 +1,32 @@
-# Requirements (Win8+/MacOS/Linux/ARM)
+# ⚙️ BotNix Client Application
 
-- [.NET 9.0 SDK or higher](https://dotnet.microsoft.com/download)*
+<p align="center">
+  <strong>Lightweight Automation Framework – Engineered for Our Internal Product Ecosystem</strong><br>
+  Scalable · Event‑Driven · Workflow Orchestration
+</p>
 
-* Be sure to install the **32- and 64-bit version on windows**! Both are absolutely necessary!
+<p align="center">
+  <img src="https://img.shields.io/badge/.NET-10.0-purple?style=for-the-badge" alt=".NET 10.0" />
+  <img src="https://img.shields.io/badge/Platforms-Win|macOS|Linux|ARM-0078D6?style=for-the-badge" alt="Platforms" />
+  <img src="https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey?style=for-the-badge" alt="License" />
+  <img src="https://img.shields.io/badge/Status-Internal%20Use%20Only-red?style=for-the-badge" alt="Internal Use Only" />
+</p>
 
-# Legal
+---
 
-Violation of any of the terms below will result in the termination of your Account. You agree to use the Service at your own risk.
+## 🔥 The Essence
 
-# License
-Attribution-NonCommercial-NoDerivs 4.0 Unported <http://creativecommons.org/licenses/by-nc-nd/4.0/>
+**BotNix Application Client** is a lightweight, event‑driven automation framework built **exclusively for our internal product portfolio**.  
+It empowers our backend systems with:
+
+- Reliable, cross‑platform task pipelines  
+- Declarative workflow orchestration  
+- Seamless integration into our proprietary applications  
+
+> **Not a public tool.** This framework is designed, developed, and maintained solely to power our own infrastructure.
+
+---
+
+## 📦 Overview
+
+At its core, **BotNix Application Client** provides a modular foundation to define, schedule, and execute automated processes. Whether it’s a recurring cleanup job, a data transformation pipeline, or a complex cross‑service workflow – the framework handles it with minimal overhead and maximal control.
